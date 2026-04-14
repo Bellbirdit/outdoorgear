@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+    <url>
+    <loc>https://staging.outdoorgear.ae/privacy-policy</loc>
+    <lastmod>2020-05-14T07:55:40+04:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+            </url>
+    <url>
+    <loc>https://staging.outdoorgear.ae/terms-conditions</loc>
+    <lastmod>2020-05-14T10:15:20+04:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+            </url>
+    <url>
+    <loc>https://staging.outdoorgear.ae/return-policy</loc>
+    <lastmod>2020-05-14T10:59:27+04:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+            </url>
+    <url>
+    <loc>https://staging.outdoorgear.ae/faq</loc>
+    <lastmod>2020-05-14T11:31:09+04:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+            </url>
+    <url>
+    <loc>https://staging.outdoorgear.ae/about-us</loc>
+    <lastmod>2020-05-14T12:52:37+04:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+            </url>
+</urlset>

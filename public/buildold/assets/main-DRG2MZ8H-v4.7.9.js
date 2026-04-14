@@ -1,0 +1,1 @@
+$("form").on("submit",e=>{$(e.currentTarget).find(":input").filter((t,r)=>!r.value).attr("disabled","disabled")});$("#report-type").on("change",e=>{window.location=`/admin/reports?type=${e.currentTarget.value}`});

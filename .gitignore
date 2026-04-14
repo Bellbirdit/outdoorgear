@@ -1,0 +1,57 @@
+# Laravel specific
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+/storage/app/public
+/storage/framework/cache/data
+/storage/framework/sessions
+/storage/framework/views
+/storage/logs
+
+# Environment files (IMPORTANT - never push these)
+.env
+.env.backup
+.env.production
+.env.local
+
+# Composer
+composer.lock
+
+# NPM
+package-lock.json
+yarn.lock
+
+# Build files
+/public/hot
+/public/mix-manifest.json
+
+# IDE / Editor
+/.idea
+/.vscode
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PHPUnit
+.phpunit.result.cache
+
+# Logs
+*.log
+
+# Misc
+npm-debug.log
+yarn-error.log
+
+# Docker (optional)
+docker-compose.override.yml
+
+# Laravel Sail
+/.docker
+
+# Cache
+bootstrap/cache/*.php
+bootstrap/cache/*.json

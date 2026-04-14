@@ -1,0 +1,2 @@
+name,sku,categories,attributes,options
+Test T-Shirt,TEST001,Men///T-Shirts,"[Apparel]|Color|Slug:color|Filterable:1|Categories:Men,T-Shirts|Values:Red,Blue,Black||[Apparel]|Size|Slug:size|Filterable:1|Categories:Men,T-Shirts|Values:S,M,L","name=Color;type=dropdown;is_required=1;values[0][label]=Red;values[0][price]=0;values[1][label]=Blue;values[1][price]=0;values[2][label]=Black;values[2][price]=0||name=Size;type=dropdown;is_required=1;values[0][label]=S;values[0][price]=0;values[1][label]=M;values[1][price]=0;values[2][label]=L;values[2][price]=0"

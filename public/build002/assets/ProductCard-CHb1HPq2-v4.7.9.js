@@ -1,0 +1,1 @@
+import{P as t}from"./ProductMixin-D4Z8_OKx-v4.7.9.js";import"./ProductRating-Jsih_aOL-v4.7.9.js";Alpine.data("ProductCard",i=>({...t(i),get inWishlist(){return this.$store.wishlist.inWishlist(this.product.id)},get inCompareList(){return this.$store.compare.inCompareList(this.product.id)}}));

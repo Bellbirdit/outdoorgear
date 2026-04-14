@@ -1,0 +1,2080 @@
+{
+  "_@kurkle-C_POY-EF-v4.7.9.js": {
+    "file": "assets/@kurkle-C_POY-EF-v4.7.9.js",
+    "name": "@kurkle"
+  },
+  "_@melloware-RmAS1ZjF-v4.7.9.js": {
+    "file": "assets/@melloware-RmAS1ZjF-v4.7.9.js",
+    "name": "@melloware"
+  },
+  "_@popperjs-IQGopUey-v4.7.9.js": {
+    "file": "assets/@popperjs-IQGopUey-v4.7.9.js",
+    "name": "@popperjs"
+  },
+  "_@vue-O6qqxbZM-v4.7.9.js": {
+    "file": "assets/@vue-O6qqxbZM-v4.7.9.js",
+    "name": "@vue"
+  },
+  "_CartItem-CWYvz8ch-v4.7.9.js": {
+    "file": "assets/CartItem-CWYvz8ch-v4.7.9.js",
+    "name": "CartItem"
+  },
+  "_CartItem-DoYV7sXc-v4.7.9.js": {
+    "file": "assets/CartItem-DoYV7sXc-v4.7.9.js",
+    "name": "CartItem"
+  },
+  "_Errors-C30A2Jtx-v4.7.9.js": {
+    "file": "assets/Errors-C30A2Jtx-v4.7.9.js",
+    "name": "Errors"
+  },
+  "_Errors-CUe_UZOJ-v4.7.9.js": {
+    "file": "assets/Errors-CUe_UZOJ-v4.7.9.js",
+    "name": "Errors"
+  },
+  "_Errors-DTDfkYKH-v4.7.9.js": {
+    "file": "assets/Errors-DTDfkYKH-v4.7.9.js",
+    "name": "Errors"
+  },
+  "_LandscapeProducts-BdtI2HIw-v4.7.9.js": {
+    "file": "assets/LandscapeProducts-BdtI2HIw-v4.7.9.js",
+    "name": "LandscapeProducts",
+    "imports": [
+      "_swiper-AEc_2BbQ-v4.7.9.js",
+      "_ProductCard-CHb1HPq2-v4.7.9.js"
+    ]
+  },
+  "_LandscapeProducts-CqK5x5M5-v4.7.9.js": {
+    "file": "assets/LandscapeProducts-CqK5x5M5-v4.7.9.js",
+    "name": "LandscapeProducts",
+    "imports": [
+      "_swiper-AEc_2BbQ-v4.7.9.js",
+      "_ProductCard-C21Eo_OC-v4.7.9.js"
+    ]
+  },
+  "_NProgress-y1prHQ1u-v4.7.9.js": {
+    "file": "assets/NProgress-y1prHQ1u-v4.7.9.js",
+    "name": "NProgress",
+    "imports": [
+      "_nprogress-CvXwzOYS-v4.7.9.js"
+    ]
+  },
+  "_Pagination-BnhqBD5R-v4.7.9.js": {
+    "file": "assets/Pagination-BnhqBD5R-v4.7.9.js",
+    "name": "Pagination"
+  },
+  "_Pagination-DKj6Zlmg-v4.7.9.js": {
+    "file": "assets/Pagination-DKj6Zlmg-v4.7.9.js",
+    "name": "Pagination"
+  },
+  "_ProductCard-C21Eo_OC-v4.7.9.js": {
+    "file": "assets/ProductCard-C21Eo_OC-v4.7.9.js",
+    "name": "ProductCard",
+    "imports": [
+      "_ProductMixin--GAd37Co-v4.7.9.js",
+      "_ProductRating-CE-VhVqO-v4.7.9.js"
+    ]
+  },
+  "_ProductCard-CHb1HPq2-v4.7.9.js": {
+    "file": "assets/ProductCard-CHb1HPq2-v4.7.9.js",
+    "name": "ProductCard",
+    "imports": [
+      "_ProductMixin-D4Z8_OKx-v4.7.9.js",
+      "_ProductRating-Jsih_aOL-v4.7.9.js"
+    ]
+  },
+  "_ProductMixin--GAd37Co-v4.7.9.js": {
+    "file": "assets/ProductMixin--GAd37Co-v4.7.9.js",
+    "name": "ProductMixin"
+  },
+  "_ProductMixin-D4Z8_OKx-v4.7.9.js": {
+    "file": "assets/ProductMixin-D4Z8_OKx-v4.7.9.js",
+    "name": "ProductMixin"
+  },
+  "_ProductRating-CE-VhVqO-v4.7.9.js": {
+    "file": "assets/ProductRating-CE-VhVqO-v4.7.9.js",
+    "name": "ProductRating"
+  },
+  "_ProductRating-Jsih_aOL-v4.7.9.js": {
+    "file": "assets/ProductRating-Jsih_aOL-v4.7.9.js",
+    "name": "ProductRating"
+  },
+  "_Toaster-D8Gweven-v4.7.9.js": {
+    "file": "assets/Toaster-D8Gweven-v4.7.9.js",
+    "name": "Toaster",
+    "imports": [
+      "_vue-toast-notification-XnVLFVxK-v4.7.9.js"
+    ],
+    "css": [
+      "assets/Toaster-cUKAgYS4-v4.7.9.css"
+    ]
+  },
+  "_Toaster-cUKAgYS4-v4.7.9.css": {
+    "file": "assets/Toaster-cUKAgYS4-v4.7.9.css",
+    "src": "_Toaster-cUKAgYS4-v4.7.9.css"
+  },
+  "_VariationMixin-CgH8HRNL-v4.7.9.js": {
+    "file": "assets/VariationMixin-CgH8HRNL-v4.7.9.js",
+    "name": "VariationMixin",
+    "imports": [
+      "_vuedraggable-BIdiRQGq-v4.7.9.js",
+      "_Errors-CUe_UZOJ-v4.7.9.js",
+      "_@melloware-RmAS1ZjF-v4.7.9.js",
+      "_functions-Cxk2NqT8-v4.7.9.js"
+    ]
+  },
+  "_VariationMixin-Dn8G0t59-v4.7.9.js": {
+    "file": "assets/VariationMixin-Dn8G0t59-v4.7.9.js",
+    "name": "VariationMixin",
+    "imports": [
+      "_vuedraggable-BIdiRQGq-v4.7.9.js",
+      "_Errors-CUe_UZOJ-v4.7.9.js",
+      "_@melloware-RmAS1ZjF-v4.7.9.js",
+      "_functions-Cxk2NqT8-v4.7.9.js"
+    ]
+  },
+  "__plugin-vue_export-helper-DlAUqK2U-v4.7.9.js": {
+    "file": "assets/_plugin-vue_export-helper-DlAUqK2U-v4.7.9.js",
+    "name": "_plugin-vue_export-helper"
+  },
+  "_alpinejs-S4M4TpEG-v4.7.9.js": {
+    "file": "assets/alpinejs-S4M4TpEG-v4.7.9.js",
+    "name": "alpinejs"
+  },
+  "_axios-B9ygI19o-v4.7.9.js": {
+    "file": "assets/axios-B9ygI19o-v4.7.9.js",
+    "name": "axios"
+  },
+  "_blueimp-md5-moQeb2ly-v4.7.9.js": {
+    "file": "assets/blueimp-md5-moQeb2ly-v4.7.9.js",
+    "name": "blueimp-md5",
+    "imports": [
+      "_@popperjs-IQGopUey-v4.7.9.js"
+    ]
+  },
+  "_bootstrap-BqvxL2cm-v4.7.9.js": {
+    "file": "assets/bootstrap-BqvxL2cm-v4.7.9.js",
+    "name": "bootstrap",
+    "imports": [
+      "_@popperjs-IQGopUey-v4.7.9.js"
+    ]
+  },
+  "_call-bind-apply-helpers-BERrMlAJ-v4.7.9.js": {
+    "file": "assets/call-bind-apply-helpers-BERrMlAJ-v4.7.9.js",
+    "name": "call-bind-apply-helpers",
+    "imports": [
+      "_function-bind-CHqF18-c-v4.7.9.js",
+      "_es-errors-CxTyLFAO-v4.7.9.js"
+    ]
+  },
+  "_call-bound-BaE_5wDV-v4.7.9.js": {
+    "file": "assets/call-bound-BaE_5wDV-v4.7.9.js",
+    "name": "call-bound",
+    "imports": [
+      "_get-intrinsic-Cw1lliNH-v4.7.9.js",
+      "_call-bind-apply-helpers-BERrMlAJ-v4.7.9.js"
+    ]
+  },
+  "_chart.js-E6_ZupAi-v4.7.9.js": {
+    "file": "assets/chart.js-E6_ZupAi-v4.7.9.js",
+    "name": "chart.js",
+    "imports": [
+      "_@kurkle-C_POY-EF-v4.7.9.js"
+    ]
+  },
+  "_countdown-DEkJMrkh-v4.7.9.js": {
+    "file": "assets/countdown-DEkJMrkh-v4.7.9.js",
+    "name": "countdown",
+    "imports": [
+      "_@popperjs-IQGopUey-v4.7.9.js"
+    ]
+  },
+  "_datatables.net-CN8QGwxi-v4.7.9.js": {
+    "file": "assets/datatables.net-CN8QGwxi-v4.7.9.js",
+    "name": "datatables.net",
+    "imports": [
+      "_jquery-Da0aGkp1-v4.7.9.js"
+    ]
+  },
+  "_datatables.net-bs-shaCT9ye-v4.7.9.js": {
+    "file": "assets/datatables.net-bs-shaCT9ye-v4.7.9.js",
+    "name": "datatables.net-bs",
+    "imports": [
+      "_jquery-Da0aGkp1-v4.7.9.js",
+      "_datatables.net-CN8QGwxi-v4.7.9.js"
+    ]
+  },
+  "_drift-zoom-2CC1LJ4j-v4.7.9.js": {
+    "file": "assets/drift-zoom-2CC1LJ4j-v4.7.9.js",
+    "name": "drift-zoom"
+  },
+  "_dropzone-D_fpH5HM-v4.7.9.js": {
+    "file": "assets/dropzone-D_fpH5HM-v4.7.9.js",
+    "name": "dropzone",
+    "imports": [
+      "_just-extend-DZ8Smc-h-v4.7.9.js"
+    ]
+  },
+  "_dunder-proto-32bfpkzl-v4.7.9.js": {
+    "file": "assets/dunder-proto-32bfpkzl-v4.7.9.js",
+    "name": "dunder-proto",
+    "imports": [
+      "_call-bind-apply-helpers-BERrMlAJ-v4.7.9.js",
+      "_gopd-C1lCZ5Qs-v4.7.9.js"
+    ]
+  },
+  "_es-define-property-D_7cP-M3-v4.7.9.js": {
+    "file": "assets/es-define-property-D_7cP-M3-v4.7.9.js",
+    "name": "es-define-property"
+  },
+  "_es-errors-CxTyLFAO-v4.7.9.js": {
+    "file": "assets/es-errors-CxTyLFAO-v4.7.9.js",
+    "name": "es-errors"
+  },
+  "_es-object-atoms-BR76m4z7-v4.7.9.js": {
+    "file": "assets/es-object-atoms-BR76m4z7-v4.7.9.js",
+    "name": "es-object-atoms"
+  },
+  "_flatpickr-B_JH6AFf-v4.7.9.js": {
+    "file": "assets/flatpickr-B_JH6AFf-v4.7.9.js",
+    "name": "flatpickr"
+  },
+  "_function-bind-CHqF18-c-v4.7.9.js": {
+    "file": "assets/function-bind-CHqF18-c-v4.7.9.js",
+    "name": "function-bind"
+  },
+  "_functions-CwRdlv5O-v4.7.9.js": {
+    "file": "assets/functions-CwRdlv5O-v4.7.9.js",
+    "name": "functions"
+  },
+  "_functions-Cxk2NqT8-v4.7.9.js": {
+    "file": "assets/functions-Cxk2NqT8-v4.7.9.js",
+    "name": "functions"
+  },
+  "_functions-DDgwB-TF-v4.7.9.js": {
+    "file": "assets/functions-DDgwB-TF-v4.7.9.js",
+    "name": "functions"
+  },
+  "_get-intrinsic-Cw1lliNH-v4.7.9.js": {
+    "file": "assets/get-intrinsic-Cw1lliNH-v4.7.9.js",
+    "name": "get-intrinsic",
+    "imports": [
+      "_es-object-atoms-BR76m4z7-v4.7.9.js",
+      "_es-errors-CxTyLFAO-v4.7.9.js",
+      "_math-intrinsics-DP1tGiab-v4.7.9.js",
+      "_gopd-C1lCZ5Qs-v4.7.9.js",
+      "_es-define-property-D_7cP-M3-v4.7.9.js",
+      "_has-symbols-BaUvM3gb-v4.7.9.js",
+      "_get-proto-DfsvkXpd-v4.7.9.js",
+      "_call-bind-apply-helpers-BERrMlAJ-v4.7.9.js",
+      "_function-bind-CHqF18-c-v4.7.9.js",
+      "_hasown-BV_6DPh--v4.7.9.js"
+    ]
+  },
+  "_get-proto-DfsvkXpd-v4.7.9.js": {
+    "file": "assets/get-proto-DfsvkXpd-v4.7.9.js",
+    "name": "get-proto",
+    "imports": [
+      "_es-object-atoms-BR76m4z7-v4.7.9.js",
+      "_dunder-proto-32bfpkzl-v4.7.9.js"
+    ]
+  },
+  "_glightbox-CZ7eyOfq-v4.7.9.js": {
+    "file": "assets/glightbox-CZ7eyOfq-v4.7.9.js",
+    "name": "glightbox",
+    "imports": [
+      "_@popperjs-IQGopUey-v4.7.9.js"
+    ]
+  },
+  "_gopd-C1lCZ5Qs-v4.7.9.js": {
+    "file": "assets/gopd-C1lCZ5Qs-v4.7.9.js",
+    "name": "gopd"
+  },
+  "_has-symbols-BaUvM3gb-v4.7.9.js": {
+    "file": "assets/has-symbols-BaUvM3gb-v4.7.9.js",
+    "name": "has-symbols"
+  },
+  "_hasown-BV_6DPh--v4.7.9.js": {
+    "file": "assets/hasown-BV_6DPh--v4.7.9.js",
+    "name": "hasown",
+    "imports": [
+      "_function-bind-CHqF18-c-v4.7.9.js"
+    ]
+  },
+  "_jquery-Da0aGkp1-v4.7.9.js": {
+    "file": "assets/jquery-Da0aGkp1-v4.7.9.js",
+    "name": "jquery",
+    "imports": [
+      "_@popperjs-IQGopUey-v4.7.9.js"
+    ]
+  },
+  "_just-extend-DZ8Smc-h-v4.7.9.js": {
+    "file": "assets/just-extend-DZ8Smc-h-v4.7.9.js",
+    "name": "just-extend"
+  },
+  "_lodash-D2t14mRG-v4.7.9.js": {
+    "file": "assets/lodash-D2t14mRG-v4.7.9.js",
+    "name": "lodash",
+    "imports": [
+      "_@popperjs-IQGopUey-v4.7.9.js"
+    ]
+  },
+  "_math-intrinsics-DP1tGiab-v4.7.9.js": {
+    "file": "assets/math-intrinsics-DP1tGiab-v4.7.9.js",
+    "name": "math-intrinsics"
+  },
+  "_mousetrap-DiKwyQ_M-v4.7.9.js": {
+    "file": "assets/mousetrap-DiKwyQ_M-v4.7.9.js",
+    "name": "mousetrap"
+  },
+  "_nestable2-CeBHq76U-v4.7.9.js": {
+    "file": "assets/nestable2-CeBHq76U-v4.7.9.js",
+    "name": "nestable2"
+  },
+  "_nouislider-B_G20eMg-v4.7.9.js": {
+    "file": "assets/nouislider-B_G20eMg-v4.7.9.js",
+    "name": "nouislider"
+  },
+  "_nprogress-CvXwzOYS-v4.7.9.js": {
+    "file": "assets/nprogress-CvXwzOYS-v4.7.9.js",
+    "name": "nprogress",
+    "imports": [
+      "_@popperjs-IQGopUey-v4.7.9.js"
+    ]
+  },
+  "_object-inspect-qJYbVc5F-v4.7.9.js": {
+    "file": "assets/object-inspect-qJYbVc5F-v4.7.9.js",
+    "name": "object-inspect",
+    "imports": [
+      "_@popperjs-IQGopUey-v4.7.9.js"
+    ]
+  },
+  "_placeholder_image-Bbu6noMO-v4.7.9.js": {
+    "file": "assets/placeholder_image-Bbu6noMO-v4.7.9.js",
+    "name": "placeholder_image",
+    "assets": [
+      "assets/placeholder_image-BqsW5LDU-v4.7.9.png"
+    ]
+  },
+  "_qs-BgV9AbAw-v4.7.9.js": {
+    "file": "assets/qs-BgV9AbAw-v4.7.9.js",
+    "name": "qs",
+    "imports": [
+      "_@popperjs-IQGopUey-v4.7.9.js",
+      "_side-channel-D12hyIMn-v4.7.9.js"
+    ]
+  },
+  "_side-channel-D12hyIMn-v4.7.9.js": {
+    "file": "assets/side-channel-D12hyIMn-v4.7.9.js",
+    "name": "side-channel",
+    "imports": [
+      "_es-errors-CxTyLFAO-v4.7.9.js",
+      "_object-inspect-qJYbVc5F-v4.7.9.js",
+      "_side-channel-list-ax_k0WFu-v4.7.9.js",
+      "_side-channel-map-DI_RZ64y-v4.7.9.js",
+      "_side-channel-weakmap-PI3ldrOI-v4.7.9.js"
+    ]
+  },
+  "_side-channel-list-ax_k0WFu-v4.7.9.js": {
+    "file": "assets/side-channel-list-ax_k0WFu-v4.7.9.js",
+    "name": "side-channel-list",
+    "imports": [
+      "_object-inspect-qJYbVc5F-v4.7.9.js",
+      "_es-errors-CxTyLFAO-v4.7.9.js"
+    ]
+  },
+  "_side-channel-map-DI_RZ64y-v4.7.9.js": {
+    "file": "assets/side-channel-map-DI_RZ64y-v4.7.9.js",
+    "name": "side-channel-map",
+    "imports": [
+      "_get-intrinsic-Cw1lliNH-v4.7.9.js",
+      "_call-bound-BaE_5wDV-v4.7.9.js",
+      "_object-inspect-qJYbVc5F-v4.7.9.js",
+      "_es-errors-CxTyLFAO-v4.7.9.js"
+    ]
+  },
+  "_side-channel-weakmap-PI3ldrOI-v4.7.9.js": {
+    "file": "assets/side-channel-weakmap-PI3ldrOI-v4.7.9.js",
+    "name": "side-channel-weakmap",
+    "imports": [
+      "_get-intrinsic-Cw1lliNH-v4.7.9.js",
+      "_call-bound-BaE_5wDV-v4.7.9.js",
+      "_object-inspect-qJYbVc5F-v4.7.9.js",
+      "_side-channel-map-DI_RZ64y-v4.7.9.js",
+      "_es-errors-CxTyLFAO-v4.7.9.js"
+    ]
+  },
+  "_sortablejs-DdTU3J9A-v4.7.9.js": {
+    "file": "assets/sortablejs-DdTU3J9A-v4.7.9.js",
+    "name": "sortablejs"
+  },
+  "_swiper-AEc_2BbQ-v4.7.9.js": {
+    "file": "assets/swiper-AEc_2BbQ-v4.7.9.js",
+    "name": "swiper"
+  },
+  "_tinymce-BDjfghZb-v4.7.9.js": {
+    "file": "assets/tinymce-BDjfghZb-v4.7.9.js",
+    "name": "tinymce",
+    "imports": [
+      "_@popperjs-IQGopUey-v4.7.9.js"
+    ]
+  },
+  "_toastify-js-ByxlDcIl-v4.7.9.js": {
+    "file": "assets/toastify-js-ByxlDcIl-v4.7.9.js",
+    "name": "toastify-js",
+    "imports": [
+      "_@popperjs-IQGopUey-v4.7.9.js"
+    ]
+  },
+  "_vue-BHeX_88J-v4.7.9.js": {
+    "file": "assets/vue-BHeX_88J-v4.7.9.js",
+    "name": "vue",
+    "imports": [
+      "_@popperjs-IQGopUey-v4.7.9.js",
+      "_@vue-O6qqxbZM-v4.7.9.js"
+    ]
+  },
+  "_vue-flatpickr-component-Dvds00Z4-v4.7.9.js": {
+    "file": "assets/vue-flatpickr-component-Dvds00Z4-v4.7.9.js",
+    "name": "vue-flatpickr-component",
+    "imports": [
+      "_flatpickr-B_JH6AFf-v4.7.9.js",
+      "_vue-BHeX_88J-v4.7.9.js",
+      "_@vue-O6qqxbZM-v4.7.9.js"
+    ]
+  },
+  "_vue-toast-notification-XnVLFVxK-v4.7.9.js": {
+    "file": "assets/vue-toast-notification-XnVLFVxK-v4.7.9.js",
+    "name": "vue-toast-notification",
+    "imports": [
+      "_vue-BHeX_88J-v4.7.9.js"
+    ]
+  },
+  "_vuedraggable-BIdiRQGq-v4.7.9.js": {
+    "file": "assets/vuedraggable-BIdiRQGq-v4.7.9.js",
+    "name": "vuedraggable",
+    "imports": [
+      "_@popperjs-IQGopUey-v4.7.9.js",
+      "_vue-BHeX_88J-v4.7.9.js"
+    ]
+  },
+  "_wysiwyg-BvPEpO8d-v4.7.9.js": {
+    "file": "assets/wysiwyg-BvPEpO8d-v4.7.9.js",
+    "name": "wysiwyg",
+    "imports": [
+      "_tinymce-BDjfghZb-v4.7.9.js"
+    ]
+  },
+  "_x-editable-Dp3MKH4K-v4.7.9.js": {
+    "file": "assets/x-editable-Dp3MKH4K-v4.7.9.js",
+    "name": "x-editable"
+  },
+  "bk/modules/Admin/Resources/assets/images/arrow-black.png": {
+    "file": "assets/arrow-black-DFZmLAQh-v4.7.9.png",
+    "src": "bk/modules/Admin/Resources/assets/images/arrow-black.png"
+  },
+  "bk/modules/Admin/Resources/assets/images/arrow-white.png": {
+    "file": "assets/arrow-white-CfI_y3Kw-v4.7.9.png",
+    "src": "bk/modules/Admin/Resources/assets/images/arrow-white.png"
+  },
+  "bk/modules/Admin/Resources/assets/images/arrow_right_icon.svg": {
+    "file": "assets/arrow_right_icon-x9lBPR64-v4.7.9.svg",
+    "src": "bk/modules/Admin/Resources/assets/images/arrow_right_icon.svg"
+  },
+  "bk/modules/Admin/Resources/assets/images/search-01.png": {
+    "file": "assets/search-01-BkhLhJAA-v4.7.9.png",
+    "src": "bk/modules/Admin/Resources/assets/images/search-01.png"
+  },
+  "bk/modules/Admin/Resources/assets/js/app.js": {
+    "file": "assets/app-DdDd0Tzb-v4.7.9.js",
+    "name": "app",
+    "src": "bk/modules/Admin/Resources/assets/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "_flatpickr-B_JH6AFf-v4.7.9.js",
+      "_mousetrap-DiKwyQ_M-v4.7.9.js",
+      "_axios-B9ygI19o-v4.7.9.js",
+      "_nprogress-CvXwzOYS-v4.7.9.js",
+      "_datatables.net-bs-shaCT9ye-v4.7.9.js",
+      "_qs-BgV9AbAw-v4.7.9.js",
+      "_datatables.net-CN8QGwxi-v4.7.9.js",
+      "_@popperjs-IQGopUey-v4.7.9.js",
+      "_jquery-Da0aGkp1-v4.7.9.js",
+      "_side-channel-D12hyIMn-v4.7.9.js",
+      "_es-errors-CxTyLFAO-v4.7.9.js",
+      "_object-inspect-qJYbVc5F-v4.7.9.js",
+      "_side-channel-list-ax_k0WFu-v4.7.9.js",
+      "_side-channel-map-DI_RZ64y-v4.7.9.js",
+      "_get-intrinsic-Cw1lliNH-v4.7.9.js",
+      "_es-object-atoms-BR76m4z7-v4.7.9.js",
+      "_math-intrinsics-DP1tGiab-v4.7.9.js",
+      "_gopd-C1lCZ5Qs-v4.7.9.js",
+      "_es-define-property-D_7cP-M3-v4.7.9.js",
+      "_has-symbols-BaUvM3gb-v4.7.9.js",
+      "_get-proto-DfsvkXpd-v4.7.9.js",
+      "_dunder-proto-32bfpkzl-v4.7.9.js",
+      "_call-bind-apply-helpers-BERrMlAJ-v4.7.9.js",
+      "_function-bind-CHqF18-c-v4.7.9.js",
+      "_hasown-BV_6DPh--v4.7.9.js",
+      "_call-bound-BaE_5wDV-v4.7.9.js",
+      "_side-channel-weakmap-PI3ldrOI-v4.7.9.js"
+    ]
+  },
+  "bk/modules/Admin/Resources/assets/js/main.js": {
+    "file": "assets/main-CaNbrYi8-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Admin/Resources/assets/js/main.js",
+    "isEntry": true,
+    "imports": [
+      "_lodash-D2t14mRG-v4.7.9.js",
+      "_sortablejs-DdTU3J9A-v4.7.9.js",
+      "_@popperjs-IQGopUey-v4.7.9.js"
+    ]
+  },
+  "bk/modules/Admin/Resources/assets/sass/main.scss": {
+    "file": "assets/main-6UUdFtWb-v4.7.9.css",
+    "src": "modules/Admin/Resources/assets/sass/main.scss"
+  },
+  "bk/modules/Attribute/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-DuS3AGC2-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Attribute/Resources/assets/admin/js/main.js",
+    "isEntry": true
+  },
+  "bk/modules/Attribute/Resources/assets/admin/sass/main.scss": {
+    "file": "assets/main-DSE6SrLD-v4.7.9.css",
+    "src": "modules/Attribute/Resources/assets/admin/sass/main.scss"
+  },
+  "bk/modules/Blog/Resources/assets/admin/posts/js/create.js": {
+    "file": "assets/create-BI_eLsCM-v4.7.9.js",
+    "name": "create",
+    "src": "bk/modules/Blog/Resources/assets/admin/posts/js/create.js",
+    "isEntry": true,
+    "imports": [
+      "_NProgress-y1prHQ1u-v4.7.9.js",
+      "_functions-Cxk2NqT8-v4.7.9.js",
+      "_alpinejs-S4M4TpEG-v4.7.9.js",
+      "_wysiwyg-BvPEpO8d-v4.7.9.js",
+      "_Errors-CUe_UZOJ-v4.7.9.js",
+      "_nprogress-CvXwzOYS-v4.7.9.js",
+      "_@popperjs-IQGopUey-v4.7.9.js",
+      "_tinymce-BDjfghZb-v4.7.9.js"
+    ]
+  },
+  "bk/modules/Blog/Resources/assets/admin/posts/js/edit.js": {
+    "file": "assets/edit-MAHj5NV0-v4.7.9.js",
+    "name": "edit",
+    "src": "bk/modules/Blog/Resources/assets/admin/posts/js/edit.js",
+    "isEntry": true,
+    "imports": [
+      "_NProgress-y1prHQ1u-v4.7.9.js",
+      "_functions-Cxk2NqT8-v4.7.9.js",
+      "_alpinejs-S4M4TpEG-v4.7.9.js",
+      "_wysiwyg-BvPEpO8d-v4.7.9.js",
+      "_Errors-CUe_UZOJ-v4.7.9.js",
+      "_nprogress-CvXwzOYS-v4.7.9.js",
+      "_@popperjs-IQGopUey-v4.7.9.js",
+      "_tinymce-BDjfghZb-v4.7.9.js"
+    ]
+  },
+  "bk/modules/Blog/Resources/assets/admin/posts/sass/main.scss": {
+    "file": "assets/main-DekjSIbf-v4.7.9.css",
+    "src": "modules/Blog/Resources/assets/admin/posts/sass/main.scss"
+  },
+  "bk/modules/Brand/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-B0rV9eGd-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Brand/Resources/assets/admin/js/main.js",
+    "isEntry": true
+  },
+  "bk/modules/Category/Resources/assets/admin/images/jstree.png": {
+    "file": "assets/jstree-DC0ixWWN-v4.7.9.png",
+    "src": "bk/modules/Category/Resources/assets/admin/images/jstree.png"
+  },
+  "bk/modules/Category/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-iP8UssNu-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Category/Resources/assets/admin/js/main.js",
+    "isEntry": true
+  },
+  "bk/modules/Category/Resources/assets/admin/sass/main.scss": {
+    "file": "assets/main-DALLiRqE-v4.7.9.css",
+    "src": "modules/Category/Resources/assets/admin/sass/main.scss"
+  },
+  "bk/modules/Currency/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-C_akdtOe-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Currency/Resources/assets/admin/js/main.js",
+    "isEntry": true
+  },
+  "bk/modules/FlashSale/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-m2fQe37n-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/FlashSale/Resources/assets/admin/js/main.js",
+    "isEntry": true
+  },
+  "bk/modules/Media/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-CG64-FKP-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Media/Resources/assets/admin/js/main.js",
+    "isEntry": true,
+    "imports": [
+      "_dropzone-D_fpH5HM-v4.7.9.js",
+      "_just-extend-DZ8Smc-h-v4.7.9.js"
+    ],
+    "css": [
+      "assets/main-CKv0fT4I-v4.7.9.css"
+    ]
+  },
+  "bk/modules/Media/Resources/assets/admin/sass/main.scss": {
+    "file": "assets/main-CcjV8mcT-v4.7.9.css",
+    "src": "modules/Media/Resources/assets/admin/sass/main.scss"
+  },
+  "bk/modules/Menu/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-CB38jGDR-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Menu/Resources/assets/admin/js/main.js",
+    "isEntry": true,
+    "imports": [
+      "_nestable2-CeBHq76U-v4.7.9.js"
+    ]
+  },
+  "bk/modules/Menu/Resources/assets/admin/sass/main.scss": {
+    "file": "assets/main-IhWvDvVc-v4.7.9.css",
+    "src": "modules/Menu/Resources/assets/admin/sass/main.scss"
+  },
+  "bk/modules/Option/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-DvLAkeLI-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Option/Resources/assets/admin/js/main.js",
+    "isEntry": true
+  },
+  "bk/modules/Option/Resources/assets/admin/sass/main.scss": {
+    "file": "assets/main-IJXQ0ybZ-v4.7.9.css",
+    "src": "modules/Option/Resources/assets/admin/sass/main.scss"
+  },
+  "bk/modules/Order/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-cD5iF3DO-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Order/Resources/assets/admin/js/main.js",
+    "isEntry": true
+  },
+  "bk/modules/Order/Resources/assets/admin/sass/main.scss": {
+    "file": "assets/main-BN8rKYdM-v4.7.9.css",
+    "src": "modules/Order/Resources/assets/admin/sass/main.scss"
+  },
+  "bk/modules/Page/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-CiY0aGHX-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Page/Resources/assets/admin/js/main.js",
+    "isEntry": true,
+    "imports": [
+      "_wysiwyg-BvPEpO8d-v4.7.9.js",
+      "_tinymce-BDjfghZb-v4.7.9.js",
+      "_@popperjs-IQGopUey-v4.7.9.js"
+    ]
+  },
+  "bk/modules/Page/Resources/assets/admin/sass/main.scss": {
+    "file": "assets/main-CobIW4f2-v4.7.9.css",
+    "src": "modules/Page/Resources/assets/admin/sass/main.scss"
+  },
+  "bk/modules/Product/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-DVTVBZPq-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Product/Resources/assets/admin/js/main.js",
+    "isEntry": true,
+    "imports": [
+      "_vue-BHeX_88J-v4.7.9.js",
+      "_functions-Cxk2NqT8-v4.7.9.js",
+      "_blueimp-md5-moQeb2ly-v4.7.9.js",
+      "_@melloware-RmAS1ZjF-v4.7.9.js",
+      "_@vue-O6qqxbZM-v4.7.9.js",
+      "_Toaster-D8Gweven-v4.7.9.js",
+      "_Errors-CUe_UZOJ-v4.7.9.js",
+      "_NProgress-y1prHQ1u-v4.7.9.js",
+      "_vuedraggable-BIdiRQGq-v4.7.9.js",
+      "_lodash-D2t14mRG-v4.7.9.js",
+      "_wysiwyg-BvPEpO8d-v4.7.9.js",
+      "_placeholder_image-Bbu6noMO-v4.7.9.js",
+      "_vue-flatpickr-component-Dvds00Z4-v4.7.9.js",
+      "_@popperjs-IQGopUey-v4.7.9.js",
+      "_vue-toast-notification-XnVLFVxK-v4.7.9.js",
+      "_nprogress-CvXwzOYS-v4.7.9.js",
+      "_tinymce-BDjfghZb-v4.7.9.js",
+      "_flatpickr-B_JH6AFf-v4.7.9.js"
+    ]
+  },
+  "bk/modules/Product/Resources/assets/admin/sass/main.scss": {
+    "file": "assets/main-DIW45hYs-v4.7.9.css",
+    "src": "modules/Product/Resources/assets/admin/sass/main.scss"
+  },
+  "bk/modules/Report/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-DRG2MZ8H-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Report/Resources/assets/admin/js/main.js",
+    "isEntry": true
+  },
+  "bk/modules/Report/Resources/assets/admin/sass/main.scss": {
+    "file": "assets/main-hk2dM2NE-v4.7.9.css",
+    "src": "modules/Report/Resources/assets/admin/sass/main.scss"
+  },
+  "bk/modules/Setting/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-CeBYbfWN-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Setting/Resources/assets/admin/js/main.js",
+    "isEntry": true
+  },
+  "bk/modules/Slider/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-DKodfU25-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Slider/Resources/assets/admin/js/main.js",
+    "isEntry": true
+  },
+  "bk/modules/Slider/Resources/assets/admin/sass/main.scss": {
+    "file": "assets/main-B6h9WZ78-v4.7.9.css",
+    "src": "modules/Slider/Resources/assets/admin/sass/main.scss"
+  },
+  "bk/modules/Storefront/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-D9h6XR9t-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Storefront/Resources/assets/admin/js/main.js",
+    "isEntry": true
+  },
+  "bk/modules/Storefront/Resources/assets/admin/sass/main.scss": {
+    "file": "assets/main-Dx-NNLSX-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/admin/sass/main.scss"
+  },
+  "bk/modules/Storefront/Resources/assets/public/images/arrow-black.png": {
+    "file": "assets/arrow-black-DFZmLAQh-v4.7.9.png",
+    "src": "bk/modules/Admin/Resources/assets/images/arrow-black.png"
+  },
+  "bk/modules/Storefront/Resources/assets/public/images/curve-bg-ltr.png": {
+    "file": "assets/curve-bg-ltr-DJkM1Jrl-v4.7.9.png",
+    "src": "bk/modules/Storefront/Resources/assets/public/images/curve-bg-ltr.png"
+  },
+  "bk/modules/Storefront/Resources/assets/public/images/curve-bg-rtl.png": {
+    "file": "assets/curve-bg-rtl-FAPrfwxq-v4.7.9.png",
+    "src": "bk/modules/Storefront/Resources/assets/public/images/curve-bg-rtl.png"
+  },
+  "bk/modules/Storefront/Resources/assets/public/images/login-page-bg.png": {
+    "file": "assets/login-page-bg-C5mjR5sO-v4.7.9.png",
+    "src": "bk/modules/Storefront/Resources/assets/public/images/login-page-bg.png"
+  },
+  "bk/modules/Storefront/Resources/assets/public/images/login-page-mobile-bg.png": {
+    "file": "assets/login-page-mobile-bg-93mPWKYP-v4.7.9.png",
+    "src": "bk/modules/Storefront/Resources/assets/public/images/login-page-mobile-bg.png"
+  },
+  "bk/modules/Storefront/Resources/assets/public/images/mobile-grid-shape-bg.png": {
+    "file": "assets/mobile-grid-shape-bg-juGEnKEQ-v4.7.9.png",
+    "src": "bk/modules/Storefront/Resources/assets/public/images/mobile-grid-shape-bg.png"
+  },
+  "bk/modules/Storefront/Resources/assets/public/images/top-mask.png": {
+    "file": "assets/top-mask-BpUofBZ6-v4.7.9.png",
+    "src": "bk/modules/Storefront/Resources/assets/public/images/top-mask.png"
+  },
+  "bk/modules/Storefront/Resources/assets/public/js/app.js": {
+    "file": "assets/app-BjZ6to5k-v4.7.9.js",
+    "name": "app",
+    "src": "bk/modules/Storefront/Resources/assets/public/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "_functions-DDgwB-TF-v4.7.9.js",
+      "_toastify-js-ByxlDcIl-v4.7.9.js",
+      "_alpinejs-S4M4TpEG-v4.7.9.js",
+      "_jquery-Da0aGkp1-v4.7.9.js",
+      "_bootstrap-BqvxL2cm-v4.7.9.js",
+      "_axios-B9ygI19o-v4.7.9.js",
+      "_@popperjs-IQGopUey-v4.7.9.js"
+    ]
+  },
+  "bk/modules/Storefront/Resources/assets/public/js/main.js": {
+    "file": "assets/main-DiHVqa7t-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Storefront/Resources/assets/public/js/main.js",
+    "isEntry": true,
+    "imports": [
+      "_lodash-D2t14mRG-v4.7.9.js",
+      "_swiper-AEc_2BbQ-v4.7.9.js",
+      "_CartItem-CWYvz8ch-v4.7.9.js",
+      "_@popperjs-IQGopUey-v4.7.9.js"
+    ]
+  },
+  "bk/modules/Storefront/Resources/assets/public/js/pages/account/addresses/main.js": {
+    "file": "assets/main-Cmp3iOGy-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Storefront/Resources/assets/public/js/pages/account/addresses/main.js",
+    "isEntry": true,
+    "imports": [
+      "_Errors-DTDfkYKH-v4.7.9.js"
+    ]
+  },
+  "bk/modules/Storefront/Resources/assets/public/js/pages/account/reviews/main.js": {
+    "file": "assets/main-K5g-B-O5-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Storefront/Resources/assets/public/js/pages/account/reviews/main.js",
+    "isEntry": true,
+    "imports": [
+      "_ProductMixin--GAd37Co-v4.7.9.js",
+      "_ProductRating-CE-VhVqO-v4.7.9.js",
+      "_Pagination-BnhqBD5R-v4.7.9.js"
+    ]
+  },
+  "bk/modules/Storefront/Resources/assets/public/js/pages/account/wishlist/main.js": {
+    "file": "assets/main-DYBiJ3XB-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Storefront/Resources/assets/public/js/pages/account/wishlist/main.js",
+    "isEntry": true,
+    "imports": [
+      "_ProductMixin--GAd37Co-v4.7.9.js",
+      "_Pagination-BnhqBD5R-v4.7.9.js"
+    ]
+  },
+  "bk/modules/Storefront/Resources/assets/public/js/pages/auth/main.js": {
+    "file": "assets/main-DuGfYZnz-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Storefront/Resources/assets/public/js/pages/auth/main.js",
+    "isEntry": true,
+    "imports": [
+      "_alpinejs-S4M4TpEG-v4.7.9.js"
+    ]
+  },
+  "bk/modules/Storefront/Resources/assets/public/js/pages/cart/main.js": {
+    "file": "assets/main-BfcO-QZM-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Storefront/Resources/assets/public/js/pages/cart/main.js",
+    "isEntry": true,
+    "imports": [
+      "_CartItem-CWYvz8ch-v4.7.9.js",
+      "_LandscapeProducts-CqK5x5M5-v4.7.9.js",
+      "_swiper-AEc_2BbQ-v4.7.9.js",
+      "_ProductCard-C21Eo_OC-v4.7.9.js",
+      "_ProductMixin--GAd37Co-v4.7.9.js",
+      "_ProductRating-CE-VhVqO-v4.7.9.js"
+    ]
+  },
+  "bk/modules/Storefront/Resources/assets/public/js/pages/checkout/create/main.js": {
+    "file": "assets/main-BWObiutx-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Storefront/Resources/assets/public/js/pages/checkout/create/main.js",
+    "isEntry": true,
+    "imports": [
+      "_Errors-DTDfkYKH-v4.7.9.js",
+      "_CartItem-CWYvz8ch-v4.7.9.js"
+    ]
+  },
+  "bk/modules/Storefront/Resources/assets/public/js/pages/compare/main.js": {
+    "file": "assets/main-ClHdlk-i-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Storefront/Resources/assets/public/js/pages/compare/main.js",
+    "isEntry": true,
+    "imports": [
+      "_ProductCard-C21Eo_OC-v4.7.9.js",
+      "_ProductRating-CE-VhVqO-v4.7.9.js",
+      "_LandscapeProducts-CqK5x5M5-v4.7.9.js",
+      "_ProductMixin--GAd37Co-v4.7.9.js",
+      "_swiper-AEc_2BbQ-v4.7.9.js"
+    ]
+  },
+  "bk/modules/Storefront/Resources/assets/public/js/pages/home/main.js": {
+    "file": "assets/main-BFMCCWIZ-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Storefront/Resources/assets/public/js/pages/home/main.js",
+    "isEntry": true,
+    "imports": [
+      "_swiper-AEc_2BbQ-v4.7.9.js",
+      "_ProductCard-C21Eo_OC-v4.7.9.js",
+      "_countdown-DEkJMrkh-v4.7.9.js",
+      "_ProductMixin--GAd37Co-v4.7.9.js",
+      "_lodash-D2t14mRG-v4.7.9.js",
+      "_ProductRating-CE-VhVqO-v4.7.9.js",
+      "_@popperjs-IQGopUey-v4.7.9.js"
+    ]
+  },
+  "bk/modules/Storefront/Resources/assets/public/js/pages/products/index/main.js": {
+    "file": "assets/main-rlmUex5A-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Storefront/Resources/assets/public/js/pages/products/index/main.js",
+    "isEntry": true,
+    "imports": [
+      "_functions-DDgwB-TF-v4.7.9.js",
+      "_swiper-AEc_2BbQ-v4.7.9.js",
+      "_nouislider-B_G20eMg-v4.7.9.js",
+      "_ProductCard-C21Eo_OC-v4.7.9.js",
+      "_Pagination-BnhqBD5R-v4.7.9.js",
+      "_ProductMixin--GAd37Co-v4.7.9.js",
+      "_ProductRating-CE-VhVqO-v4.7.9.js"
+    ]
+  },
+  "bk/modules/Storefront/Resources/assets/public/js/pages/products/show/main.js": {
+    "file": "assets/main-BC9Q9Ho0-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Storefront/Resources/assets/public/js/pages/products/show/main.js",
+    "isEntry": true,
+    "imports": [
+      "_swiper-AEc_2BbQ-v4.7.9.js",
+      "_blueimp-md5-moQeb2ly-v4.7.9.js",
+      "_drift-zoom-2CC1LJ4j-v4.7.9.js",
+      "_glightbox-CZ7eyOfq-v4.7.9.js",
+      "_Errors-DTDfkYKH-v4.7.9.js",
+      "_ProductRating-CE-VhVqO-v4.7.9.js",
+      "_Pagination-BnhqBD5R-v4.7.9.js",
+      "_ProductCard-C21Eo_OC-v4.7.9.js",
+      "_@popperjs-IQGopUey-v4.7.9.js",
+      "_ProductMixin--GAd37Co-v4.7.9.js"
+    ]
+  },
+  "bk/modules/Storefront/Resources/assets/public/sass/app.scss": {
+    "file": "assets/app-CWFnxEoj-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/app.scss",
+    "isEntry": true,
+    "name": "app",
+    "names": [
+      "app.css",
+      "app.css"
+    ]
+  },
+  "bk/modules/Storefront/Resources/assets/public/sass/pages/404/main.scss": {
+    "file": "assets/main-Cz6nar-R-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/404/main.scss"
+  },
+  "bk/modules/Storefront/Resources/assets/public/sass/pages/account/addresses/main.scss": {
+    "file": "assets/main-HCZDDvi_-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/account/addresses/main.scss"
+  },
+  "bk/modules/Storefront/Resources/assets/public/sass/pages/account/dashboard/main.scss": {
+    "file": "assets/main-BArMJRq1-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/account/dashboard/main.scss"
+  },
+  "bk/modules/Storefront/Resources/assets/public/sass/pages/account/main.scss": {
+    "file": "assets/main-CcoxQ4nR-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/account/main.scss"
+  },
+  "bk/modules/Storefront/Resources/assets/public/sass/pages/account/orders/index/main.scss": {
+    "file": "assets/main-ByyI9YR8-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/account/orders/index/main.scss",
+    "isEntry": true,
+    "name": "main",
+    "names": [
+      "main.css",
+      "main.css"
+    ]
+  },
+  "bk/modules/Storefront/Resources/assets/public/sass/pages/account/orders/show/main.scss": {
+    "file": "assets/main-y8nGXwd0-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/account/orders/show/main.scss"
+  },
+  "bk/modules/Storefront/Resources/assets/public/sass/pages/account/profile/main.scss": {
+    "file": "assets/main-CDn7NwDI-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/account/profile/main.scss"
+  },
+  "bk/modules/Storefront/Resources/assets/public/sass/pages/account/reviews/main.scss": {
+    "file": "assets/main-BFpNywyr-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/account/reviews/main.scss"
+  },
+  "bk/modules/Storefront/Resources/assets/public/sass/pages/account/wishlist/main.scss": {
+    "file": "assets/main-CibhcwWZ-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/account/wishlist/main.scss"
+  },
+  "bk/modules/Storefront/Resources/assets/public/sass/pages/auth/main.scss": {
+    "file": "assets/main-zXUdm1ao-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/auth/main.scss"
+  },
+  "bk/modules/Storefront/Resources/assets/public/sass/pages/blogs/index/main.scss": {
+    "file": "assets/main-DLUw8Mfx-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/blogs/index/main.scss"
+  },
+  "bk/modules/Storefront/Resources/assets/public/sass/pages/blogs/show/main.scss": {
+    "file": "assets/main-DcrY7ZAe-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/blogs/show/main.scss"
+  },
+  "bk/modules/Storefront/Resources/assets/public/sass/pages/brands/main.scss": {
+    "file": "assets/main-BXShebZH-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/brands/main.scss"
+  },
+  "bk/modules/Storefront/Resources/assets/public/sass/pages/cart/main.scss": {
+    "file": "assets/main-BKcwYdEM-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/cart/main.scss"
+  },
+  "bk/modules/Storefront/Resources/assets/public/sass/pages/categories/main.scss": {
+    "file": "assets/main-D1S2O9Ej-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/categories/main.scss"
+  },
+  "bk/modules/Storefront/Resources/assets/public/sass/pages/checkout/complete/main.scss": {
+    "file": "assets/main-C3BPDFwv-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/checkout/complete/main.scss"
+  },
+  "bk/modules/Storefront/Resources/assets/public/sass/pages/checkout/create/main.scss": {
+    "file": "assets/main-CfwEjl7C-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/checkout/create/main.scss"
+  },
+  "bk/modules/Storefront/Resources/assets/public/sass/pages/compare/main.scss": {
+    "file": "assets/main-Bi5Qvh7W-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/compare/main.scss"
+  },
+  "bk/modules/Storefront/Resources/assets/public/sass/pages/contact/main.scss": {
+    "file": "assets/main-CWoeVLpx-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/contact/main.scss"
+  },
+  "bk/modules/Storefront/Resources/assets/public/sass/pages/custom-page/main.scss": {
+    "file": "assets/main-DVtOAyn9-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/custom-page/main.scss"
+  },
+  "bk/modules/Storefront/Resources/assets/public/sass/pages/home/main.scss": {
+    "file": "assets/main-BJcyKARk-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/home/main.scss"
+  },
+  "bk/modules/Storefront/Resources/assets/public/sass/pages/products/index/main.scss": {
+    "file": "assets/main-CGKqJuS2-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/products/index/main.scss"
+  },
+  "bk/modules/Storefront/Resources/assets/public/sass/pages/products/show/main.scss": {
+    "file": "assets/main-C7emP4gC-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/products/show/main.scss"
+  },
+  "bk/modules/Storefront/Resources/assets/public/sass/pages/sitemap/main.scss": {
+    "file": "assets/main-DxuOebmH-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/sitemap/main.scss"
+  },
+  "bk/modules/Tax/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-C52gExBM-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Tax/Resources/assets/admin/js/main.js",
+    "isEntry": true
+  },
+  "bk/modules/Tax/Resources/assets/admin/sass/main.scss": {
+    "file": "assets/main-CO0-jDZt-v4.7.9.css",
+    "src": "modules/Tax/Resources/assets/admin/sass/main.scss"
+  },
+  "bk/modules/Translation/Resources/assets/admin/languages/js/main.js": {
+    "file": "assets/main-4oxIv3p4-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Translation/Resources/assets/admin/languages/js/main.js",
+    "isEntry": true,
+    "imports": [
+      "_vue-BHeX_88J-v4.7.9.js",
+      "_functions-Cxk2NqT8-v4.7.9.js",
+      "_Toaster-D8Gweven-v4.7.9.js",
+      "_NProgress-y1prHQ1u-v4.7.9.js",
+      "__plugin-vue_export-helper-DlAUqK2U-v4.7.9.js",
+      "_@vue-O6qqxbZM-v4.7.9.js",
+      "_@popperjs-IQGopUey-v4.7.9.js",
+      "_vue-toast-notification-XnVLFVxK-v4.7.9.js",
+      "_nprogress-CvXwzOYS-v4.7.9.js"
+    ]
+  },
+  "bk/modules/Translation/Resources/assets/admin/languages/sass/main.scss": {
+    "file": "assets/main-hsssr8NX-v4.7.9.css",
+    "src": "modules/Translation/Resources/assets/admin/languages/sass/main.scss"
+  },
+  "bk/modules/Translation/Resources/assets/admin/translations/js/main.js": {
+    "file": "assets/main-B3Ce9J4e-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/Translation/Resources/assets/admin/translations/js/main.js",
+    "isEntry": true,
+    "imports": [
+      "_datatables.net-bs-shaCT9ye-v4.7.9.js",
+      "_x-editable-Dp3MKH4K-v4.7.9.js",
+      "_datatables.net-CN8QGwxi-v4.7.9.js",
+      "_jquery-Da0aGkp1-v4.7.9.js",
+      "_@popperjs-IQGopUey-v4.7.9.js"
+    ]
+  },
+  "bk/modules/Translation/Resources/assets/admin/translations/sass/main.scss": {
+    "file": "assets/main-BehfoL3s-v4.7.9.css",
+    "src": "modules/Translation/Resources/assets/admin/translations/sass/main.scss"
+  },
+  "bk/modules/User/Resources/assets/admin/images/login-page-bg.png": {
+    "file": "assets/login-page-bg-C5mjR5sO-v4.7.9.png",
+    "src": "bk/modules/Storefront/Resources/assets/public/images/login-page-bg.png"
+  },
+  "bk/modules/User/Resources/assets/admin/images/login-page-mobile-bg.png": {
+    "file": "assets/login-page-mobile-bg-93mPWKYP-v4.7.9.png",
+    "src": "bk/modules/Storefront/Resources/assets/public/images/login-page-mobile-bg.png"
+  },
+  "bk/modules/User/Resources/assets/admin/images/mobile-grid-shape-bg.png": {
+    "file": "assets/mobile-grid-shape-bg-juGEnKEQ-v4.7.9.png",
+    "src": "bk/modules/Storefront/Resources/assets/public/images/mobile-grid-shape-bg.png"
+  },
+  "bk/modules/User/Resources/assets/admin/images/top-mask.png": {
+    "file": "assets/top-mask-BpUofBZ6-v4.7.9.png",
+    "src": "bk/modules/Storefront/Resources/assets/public/images/top-mask.png"
+  },
+  "bk/modules/User/Resources/assets/admin/js/auth/main.js": {
+    "file": "assets/main-BPRnTXtu-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/User/Resources/assets/admin/js/auth/main.js",
+    "isEntry": true,
+    "imports": [
+      "_alpinejs-S4M4TpEG-v4.7.9.js"
+    ]
+  },
+  "bk/modules/User/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-lDfN_M2z-v4.7.9.js",
+    "name": "main",
+    "src": "bk/modules/User/Resources/assets/admin/js/main.js",
+    "isEntry": true
+  },
+  "bk/modules/User/Resources/assets/admin/sass/auth/main.scss": {
+    "file": "assets/main-CcyeEyJ6-v4.7.9.css",
+    "src": "modules/User/Resources/assets/admin/sass/auth/main.scss"
+  },
+  "bk/modules/User/Resources/assets/admin/sass/main.scss": {
+    "file": "assets/main-Cpuzh06u-v4.7.9.css",
+    "src": "modules/User/Resources/assets/admin/sass/main.scss"
+  },
+  "bk/modules/Variation/Resources/assets/admin/js/create.js": {
+    "file": "assets/create-CdC2Vesr-v4.7.9.js",
+    "name": "create",
+    "src": "bk/modules/Variation/Resources/assets/admin/js/create.js",
+    "isEntry": true,
+    "imports": [
+      "_vue-BHeX_88J-v4.7.9.js",
+      "_functions-Cxk2NqT8-v4.7.9.js",
+      "_Toaster-D8Gweven-v4.7.9.js",
+      "_VariationMixin-Dn8G0t59-v4.7.9.js",
+      "_placeholder_image-Bbu6noMO-v4.7.9.js",
+      "__plugin-vue_export-helper-DlAUqK2U-v4.7.9.js",
+      "_@vue-O6qqxbZM-v4.7.9.js",
+      "_@popperjs-IQGopUey-v4.7.9.js",
+      "_vue-toast-notification-XnVLFVxK-v4.7.9.js",
+      "_vuedraggable-BIdiRQGq-v4.7.9.js",
+      "_Errors-CUe_UZOJ-v4.7.9.js",
+      "_@melloware-RmAS1ZjF-v4.7.9.js"
+    ]
+  },
+  "bk/modules/Variation/Resources/assets/admin/js/edit.js": {
+    "file": "assets/edit-DrAr4vTv-v4.7.9.js",
+    "name": "edit",
+    "src": "bk/modules/Variation/Resources/assets/admin/js/edit.js",
+    "isEntry": true,
+    "imports": [
+      "_vue-BHeX_88J-v4.7.9.js",
+      "_functions-Cxk2NqT8-v4.7.9.js",
+      "_Toaster-D8Gweven-v4.7.9.js",
+      "_VariationMixin-Dn8G0t59-v4.7.9.js",
+      "_placeholder_image-Bbu6noMO-v4.7.9.js",
+      "__plugin-vue_export-helper-DlAUqK2U-v4.7.9.js",
+      "_@vue-O6qqxbZM-v4.7.9.js",
+      "_@popperjs-IQGopUey-v4.7.9.js",
+      "_vue-toast-notification-XnVLFVxK-v4.7.9.js",
+      "_vuedraggable-BIdiRQGq-v4.7.9.js",
+      "_Errors-CUe_UZOJ-v4.7.9.js",
+      "_@melloware-RmAS1ZjF-v4.7.9.js"
+    ]
+  },
+  "bk/modules/Variation/Resources/assets/admin/sass/main.scss": {
+    "file": "assets/main-BOM9Nxrx-v4.7.9.css",
+    "src": "modules/Variation/Resources/assets/admin/sass/main.scss"
+  },
+  "bk/resources/images/installer-bg.png": {
+    "file": "assets/installer-bg-MmihlEQe-v4.7.9.png",
+    "src": "bk/resources/images/installer-bg.png"
+  },
+  "bk/resources/js/install/app.js": {
+    "file": "assets/app-B_JPv31g-v4.7.9.js",
+    "name": "app",
+    "src": "bk/resources/js/install/app.js",
+    "isEntry": true,
+    "imports": [
+      "_alpinejs-S4M4TpEG-v4.7.9.js",
+      "_axios-B9ygI19o-v4.7.9.js"
+    ]
+  },
+  "bk/resources/sass/install/app.scss": {
+    "file": "assets/app-MoOwO-pH-v4.7.9.css",
+    "src": "resources/sass/install/app.scss"
+  },
+  "modules/Admin/Resources/assets/images/arrow-black.png": {
+    "file": "assets/arrow-black-DFZmLAQh-v4.7.9.png",
+    "src": "bk/modules/Admin/Resources/assets/images/arrow-black.png"
+  },
+  "modules/Admin/Resources/assets/images/arrow-white.png": {
+    "file": "assets/arrow-white-CfI_y3Kw-v4.7.9.png",
+    "src": "bk/modules/Admin/Resources/assets/images/arrow-white.png"
+  },
+  "modules/Admin/Resources/assets/images/arrow_right_icon.svg": {
+    "file": "assets/arrow_right_icon-x9lBPR64-v4.7.9.svg",
+    "src": "bk/modules/Admin/Resources/assets/images/arrow_right_icon.svg"
+  },
+  "modules/Admin/Resources/assets/images/placeholder_image.png": {
+    "file": "assets/placeholder_image-BqsW5LDU-v4.7.9.png",
+    "src": "modules/Admin/Resources/assets/images/placeholder_image.png"
+  },
+  "modules/Admin/Resources/assets/images/search-01.png": {
+    "file": "assets/search-01-BkhLhJAA-v4.7.9.png",
+    "src": "bk/modules/Admin/Resources/assets/images/search-01.png"
+  },
+  "modules/Admin/Resources/assets/js/app.js": {
+    "file": "assets/app-BEYbDdnk-v4.7.9.js",
+    "name": "app",
+    "src": "modules/Admin/Resources/assets/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "_flatpickr-B_JH6AFf-v4.7.9.js",
+      "_mousetrap-DiKwyQ_M-v4.7.9.js",
+      "_axios-B9ygI19o-v4.7.9.js",
+      "_functions-Cxk2NqT8-v4.7.9.js",
+      "_nprogress-CvXwzOYS-v4.7.9.js",
+      "_datatables.net-bs-shaCT9ye-v4.7.9.js",
+      "_qs-BgV9AbAw-v4.7.9.js",
+      "_datatables.net-CN8QGwxi-v4.7.9.js",
+      "_@popperjs-IQGopUey-v4.7.9.js",
+      "_jquery-Da0aGkp1-v4.7.9.js",
+      "_side-channel-D12hyIMn-v4.7.9.js",
+      "_es-errors-CxTyLFAO-v4.7.9.js",
+      "_object-inspect-qJYbVc5F-v4.7.9.js",
+      "_side-channel-list-ax_k0WFu-v4.7.9.js",
+      "_side-channel-map-DI_RZ64y-v4.7.9.js",
+      "_get-intrinsic-Cw1lliNH-v4.7.9.js",
+      "_es-object-atoms-BR76m4z7-v4.7.9.js",
+      "_math-intrinsics-DP1tGiab-v4.7.9.js",
+      "_gopd-C1lCZ5Qs-v4.7.9.js",
+      "_es-define-property-D_7cP-M3-v4.7.9.js",
+      "_has-symbols-BaUvM3gb-v4.7.9.js",
+      "_get-proto-DfsvkXpd-v4.7.9.js",
+      "_dunder-proto-32bfpkzl-v4.7.9.js",
+      "_call-bind-apply-helpers-BERrMlAJ-v4.7.9.js",
+      "_function-bind-CHqF18-c-v4.7.9.js",
+      "_hasown-BV_6DPh--v4.7.9.js",
+      "_call-bound-BaE_5wDV-v4.7.9.js",
+      "_side-channel-weakmap-PI3ldrOI-v4.7.9.js"
+    ]
+  },
+  "modules/Admin/Resources/assets/js/dashboard.js": {
+    "file": "assets/dashboard-VRFP_pHi-v4.7.9.js",
+    "name": "dashboard",
+    "src": "modules/Admin/Resources/assets/js/dashboard.js",
+    "isEntry": true,
+    "imports": [
+      "_chart.js-E6_ZupAi-v4.7.9.js",
+      "_@kurkle-C_POY-EF-v4.7.9.js"
+    ]
+  },
+  "modules/Admin/Resources/assets/js/main.js": {
+    "file": "assets/main-B0ZakAqH-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Admin/Resources/assets/js/main.js",
+    "isEntry": true,
+    "imports": [
+      "_lodash-D2t14mRG-v4.7.9.js",
+      "_sortablejs-DdTU3J9A-v4.7.9.js",
+      "_@popperjs-IQGopUey-v4.7.9.js"
+    ]
+  },
+  "modules/Admin/Resources/assets/sass/dashboard.scss": {
+    "file": "assets/dashboard-umNonAy7-v4.7.9.css",
+    "src": "modules/Admin/Resources/assets/sass/dashboard.scss",
+    "isEntry": true,
+    "name": "dashboard",
+    "names": [
+      "dashboard.css"
+    ]
+  },
+  "modules/Admin/Resources/assets/sass/main.scss": {
+    "file": "assets/main-6UUdFtWb-v4.7.9.css",
+    "src": "modules/Admin/Resources/assets/sass/main.scss"
+  },
+  "modules/Attribute/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-CrFmL3TH-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Attribute/Resources/assets/admin/js/main.js",
+    "isEntry": true
+  },
+  "modules/Attribute/Resources/assets/admin/sass/main.scss": {
+    "file": "assets/main-DSE6SrLD-v4.7.9.css",
+    "src": "modules/Attribute/Resources/assets/admin/sass/main.scss"
+  },
+  "modules/Blog/Resources/assets/admin/posts/js/create.js": {
+    "file": "assets/create-DSrnoel--v4.7.9.js",
+    "name": "create",
+    "src": "modules/Blog/Resources/assets/admin/posts/js/create.js",
+    "isEntry": true,
+    "imports": [
+      "_NProgress-y1prHQ1u-v4.7.9.js",
+      "_functions-Cxk2NqT8-v4.7.9.js",
+      "_alpinejs-S4M4TpEG-v4.7.9.js",
+      "_wysiwyg-BvPEpO8d-v4.7.9.js",
+      "_Errors-CUe_UZOJ-v4.7.9.js",
+      "_nprogress-CvXwzOYS-v4.7.9.js",
+      "_@popperjs-IQGopUey-v4.7.9.js",
+      "_tinymce-BDjfghZb-v4.7.9.js"
+    ]
+  },
+  "modules/Blog/Resources/assets/admin/posts/js/edit.js": {
+    "file": "assets/edit-C1Uzo6FA-v4.7.9.js",
+    "name": "edit",
+    "src": "modules/Blog/Resources/assets/admin/posts/js/edit.js",
+    "isEntry": true,
+    "imports": [
+      "_NProgress-y1prHQ1u-v4.7.9.js",
+      "_functions-Cxk2NqT8-v4.7.9.js",
+      "_alpinejs-S4M4TpEG-v4.7.9.js",
+      "_wysiwyg-BvPEpO8d-v4.7.9.js",
+      "_Errors-CUe_UZOJ-v4.7.9.js",
+      "_nprogress-CvXwzOYS-v4.7.9.js",
+      "_@popperjs-IQGopUey-v4.7.9.js",
+      "_tinymce-BDjfghZb-v4.7.9.js"
+    ]
+  },
+  "modules/Blog/Resources/assets/admin/posts/sass/main.scss": {
+    "file": "assets/main-DekjSIbf-v4.7.9.css",
+    "src": "modules/Blog/Resources/assets/admin/posts/sass/main.scss"
+  },
+  "modules/Brand/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-CMfb-2lL-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Brand/Resources/assets/admin/js/main.js",
+    "isEntry": true
+  },
+  "modules/Category/Resources/assets/admin/images/jstree.png": {
+    "file": "assets/jstree-DC0ixWWN-v4.7.9.png",
+    "src": "bk/modules/Category/Resources/assets/admin/images/jstree.png"
+  },
+  "modules/Category/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-BqUOpX0Y-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Category/Resources/assets/admin/js/main.js",
+    "isEntry": true
+  },
+  "modules/Category/Resources/assets/admin/sass/main.scss": {
+    "file": "assets/main-DALLiRqE-v4.7.9.css",
+    "src": "modules/Category/Resources/assets/admin/sass/main.scss"
+  },
+  "modules/Currency/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-CmJX0l5b-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Currency/Resources/assets/admin/js/main.js",
+    "isEntry": true
+  },
+  "modules/FlashSale/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-DYFvSajr-v4.7.9.js",
+    "name": "main",
+    "src": "modules/FlashSale/Resources/assets/admin/js/main.js",
+    "isEntry": true
+  },
+  "modules/Media/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-BZMnTP47-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Media/Resources/assets/admin/js/main.js",
+    "isEntry": true,
+    "imports": [
+      "_dropzone-D_fpH5HM-v4.7.9.js",
+      "_just-extend-DZ8Smc-h-v4.7.9.js"
+    ],
+    "css": [
+      "assets/main-CKv0fT4I-v4.7.9.css"
+    ]
+  },
+  "modules/Media/Resources/assets/admin/sass/main.scss": {
+    "file": "assets/main-CcjV8mcT-v4.7.9.css",
+    "src": "modules/Media/Resources/assets/admin/sass/main.scss"
+  },
+  "modules/Menu/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-Bq-27dat-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Menu/Resources/assets/admin/js/main.js",
+    "isEntry": true,
+    "imports": [
+      "_nestable2-CeBHq76U-v4.7.9.js"
+    ]
+  },
+  "modules/Menu/Resources/assets/admin/sass/main.scss": {
+    "file": "assets/main-IhWvDvVc-v4.7.9.css",
+    "src": "modules/Menu/Resources/assets/admin/sass/main.scss"
+  },
+  "modules/Option/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-CqVr11tn-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Option/Resources/assets/admin/js/main.js",
+    "isEntry": true
+  },
+  "modules/Option/Resources/assets/admin/sass/main.scss": {
+    "file": "assets/main-IJXQ0ybZ-v4.7.9.css",
+    "src": "modules/Option/Resources/assets/admin/sass/main.scss"
+  },
+  "modules/Order/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-BtFe21lx-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Order/Resources/assets/admin/js/main.js",
+    "isEntry": true
+  },
+  "modules/Order/Resources/assets/admin/sass/main.scss": {
+    "file": "assets/main-BN8rKYdM-v4.7.9.css",
+    "src": "modules/Order/Resources/assets/admin/sass/main.scss"
+  },
+  "modules/Order/Resources/assets/admin/sass/print.scss": {
+    "file": "assets/print-C_hegTl7-v4.7.9.css",
+    "src": "modules/Order/Resources/assets/admin/sass/print.scss",
+    "isEntry": true,
+    "name": "print",
+    "names": [
+      "print.css"
+    ]
+  },
+  "modules/Page/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-BtcDMf5A-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Page/Resources/assets/admin/js/main.js",
+    "isEntry": true,
+    "imports": [
+      "_wysiwyg-BvPEpO8d-v4.7.9.js",
+      "_tinymce-BDjfghZb-v4.7.9.js",
+      "_@popperjs-IQGopUey-v4.7.9.js"
+    ]
+  },
+  "modules/Page/Resources/assets/admin/sass/main.scss": {
+    "file": "assets/main-CobIW4f2-v4.7.9.css",
+    "src": "modules/Page/Resources/assets/admin/sass/main.scss"
+  },
+  "modules/Product/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-CBeQRoxW-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Product/Resources/assets/admin/js/main.js",
+    "isEntry": true,
+    "imports": [
+      "_vue-BHeX_88J-v4.7.9.js",
+      "_functions-Cxk2NqT8-v4.7.9.js",
+      "_blueimp-md5-moQeb2ly-v4.7.9.js",
+      "_@melloware-RmAS1ZjF-v4.7.9.js",
+      "_@vue-O6qqxbZM-v4.7.9.js",
+      "_Toaster-D8Gweven-v4.7.9.js",
+      "_Errors-CUe_UZOJ-v4.7.9.js",
+      "_NProgress-y1prHQ1u-v4.7.9.js",
+      "_vuedraggable-BIdiRQGq-v4.7.9.js",
+      "_lodash-D2t14mRG-v4.7.9.js",
+      "_wysiwyg-BvPEpO8d-v4.7.9.js",
+      "_placeholder_image-Bbu6noMO-v4.7.9.js",
+      "_vue-flatpickr-component-Dvds00Z4-v4.7.9.js",
+      "_@popperjs-IQGopUey-v4.7.9.js",
+      "_vue-toast-notification-XnVLFVxK-v4.7.9.js",
+      "_nprogress-CvXwzOYS-v4.7.9.js",
+      "_tinymce-BDjfghZb-v4.7.9.js",
+      "_flatpickr-B_JH6AFf-v4.7.9.js"
+    ]
+  },
+  "modules/Product/Resources/assets/admin/sass/main.scss": {
+    "file": "assets/main-DIW45hYs-v4.7.9.css",
+    "src": "modules/Product/Resources/assets/admin/sass/main.scss"
+  },
+  "modules/Report/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-Cp06yAGc-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Report/Resources/assets/admin/js/main.js",
+    "isEntry": true
+  },
+  "modules/Report/Resources/assets/admin/sass/main.scss": {
+    "file": "assets/main-hk2dM2NE-v4.7.9.css",
+    "src": "modules/Report/Resources/assets/admin/sass/main.scss"
+  },
+  "modules/Setting/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-CZOvCWPZ-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Setting/Resources/assets/admin/js/main.js",
+    "isEntry": true
+  },
+  "modules/Slider/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-CdGjt5cf-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Slider/Resources/assets/admin/js/main.js",
+    "isEntry": true
+  },
+  "modules/Slider/Resources/assets/admin/sass/main.scss": {
+    "file": "assets/main-B6h9WZ78-v4.7.9.css",
+    "src": "modules/Slider/Resources/assets/admin/sass/main.scss"
+  },
+  "modules/Storefront/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-BVTm2-xa-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Storefront/Resources/assets/admin/js/main.js",
+    "isEntry": true
+  },
+  "modules/Storefront/Resources/assets/admin/sass/main.scss": {
+    "file": "assets/main-Dx-NNLSX-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/admin/sass/main.scss"
+  },
+  "modules/Storefront/Resources/assets/public/images/arrow-black.png": {
+    "file": "assets/arrow-black-DFZmLAQh-v4.7.9.png",
+    "src": "bk/modules/Admin/Resources/assets/images/arrow-black.png"
+  },
+  "modules/Storefront/Resources/assets/public/images/curve-bg-ltr.png": {
+    "file": "assets/curve-bg-ltr-DJkM1Jrl-v4.7.9.png",
+    "src": "bk/modules/Storefront/Resources/assets/public/images/curve-bg-ltr.png"
+  },
+  "modules/Storefront/Resources/assets/public/images/curve-bg-rtl.png": {
+    "file": "assets/curve-bg-rtl-FAPrfwxq-v4.7.9.png",
+    "src": "bk/modules/Storefront/Resources/assets/public/images/curve-bg-rtl.png"
+  },
+  "modules/Storefront/Resources/assets/public/images/login-page-bg.png": {
+    "file": "assets/login-page-bg-C5mjR5sO-v4.7.9.png",
+    "src": "bk/modules/Storefront/Resources/assets/public/images/login-page-bg.png"
+  },
+  "modules/Storefront/Resources/assets/public/images/login-page-mobile-bg.png": {
+    "file": "assets/login-page-mobile-bg-93mPWKYP-v4.7.9.png",
+    "src": "bk/modules/Storefront/Resources/assets/public/images/login-page-mobile-bg.png"
+  },
+  "modules/Storefront/Resources/assets/public/images/mobile-grid-shape-bg.png": {
+    "file": "assets/mobile-grid-shape-bg-juGEnKEQ-v4.7.9.png",
+    "src": "bk/modules/Storefront/Resources/assets/public/images/mobile-grid-shape-bg.png"
+  },
+  "modules/Storefront/Resources/assets/public/images/top-mask.png": {
+    "file": "assets/top-mask-BpUofBZ6-v4.7.9.png",
+    "src": "bk/modules/Storefront/Resources/assets/public/images/top-mask.png"
+  },
+  "modules/Storefront/Resources/assets/public/js/app.js": {
+    "file": "assets/app-DScbd0QB-v4.7.9.js",
+    "name": "app",
+    "src": "modules/Storefront/Resources/assets/public/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "_functions-CwRdlv5O-v4.7.9.js",
+      "_toastify-js-ByxlDcIl-v4.7.9.js",
+      "_alpinejs-S4M4TpEG-v4.7.9.js",
+      "_jquery-Da0aGkp1-v4.7.9.js",
+      "_bootstrap-BqvxL2cm-v4.7.9.js",
+      "_axios-B9ygI19o-v4.7.9.js",
+      "_@popperjs-IQGopUey-v4.7.9.js"
+    ]
+  },
+  "modules/Storefront/Resources/assets/public/js/main.js": {
+    "file": "assets/main-2pEEL0OC-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Storefront/Resources/assets/public/js/main.js",
+    "isEntry": true,
+    "imports": [
+      "_lodash-D2t14mRG-v4.7.9.js",
+      "_swiper-AEc_2BbQ-v4.7.9.js",
+      "_CartItem-DoYV7sXc-v4.7.9.js",
+      "_@popperjs-IQGopUey-v4.7.9.js"
+    ]
+  },
+  "modules/Storefront/Resources/assets/public/js/pages/account/addresses/main.js": {
+    "file": "assets/main-DJYJ0Pot-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Storefront/Resources/assets/public/js/pages/account/addresses/main.js",
+    "isEntry": true,
+    "imports": [
+      "_Errors-C30A2Jtx-v4.7.9.js"
+    ]
+  },
+  "modules/Storefront/Resources/assets/public/js/pages/account/reviews/main.js": {
+    "file": "assets/main-C68Hsnki-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Storefront/Resources/assets/public/js/pages/account/reviews/main.js",
+    "isEntry": true,
+    "imports": [
+      "_ProductMixin-D4Z8_OKx-v4.7.9.js",
+      "_ProductRating-Jsih_aOL-v4.7.9.js",
+      "_Pagination-DKj6Zlmg-v4.7.9.js"
+    ]
+  },
+  "modules/Storefront/Resources/assets/public/js/pages/account/wishlist/main.js": {
+    "file": "assets/main-CjLHFs42-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Storefront/Resources/assets/public/js/pages/account/wishlist/main.js",
+    "isEntry": true,
+    "imports": [
+      "_ProductMixin-D4Z8_OKx-v4.7.9.js",
+      "_Pagination-DKj6Zlmg-v4.7.9.js"
+    ]
+  },
+  "modules/Storefront/Resources/assets/public/js/pages/auth/main.js": {
+    "file": "assets/main-CidQZU4w-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Storefront/Resources/assets/public/js/pages/auth/main.js",
+    "isEntry": true,
+    "imports": [
+      "_alpinejs-S4M4TpEG-v4.7.9.js"
+    ]
+  },
+  "modules/Storefront/Resources/assets/public/js/pages/cart/main.js": {
+    "file": "assets/main-D-Pbe0eo-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Storefront/Resources/assets/public/js/pages/cart/main.js",
+    "isEntry": true,
+    "imports": [
+      "_CartItem-DoYV7sXc-v4.7.9.js",
+      "_LandscapeProducts-BdtI2HIw-v4.7.9.js",
+      "_swiper-AEc_2BbQ-v4.7.9.js",
+      "_ProductCard-CHb1HPq2-v4.7.9.js",
+      "_ProductMixin-D4Z8_OKx-v4.7.9.js",
+      "_ProductRating-Jsih_aOL-v4.7.9.js"
+    ]
+  },
+  "modules/Storefront/Resources/assets/public/js/pages/checkout/create/main.js": {
+    "file": "assets/main-BjeD8y22-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Storefront/Resources/assets/public/js/pages/checkout/create/main.js",
+    "isEntry": true,
+    "imports": [
+      "_Errors-C30A2Jtx-v4.7.9.js",
+      "_CartItem-DoYV7sXc-v4.7.9.js"
+    ]
+  },
+  "modules/Storefront/Resources/assets/public/js/pages/compare/main.js": {
+    "file": "assets/main-BkT7JrxW-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Storefront/Resources/assets/public/js/pages/compare/main.js",
+    "isEntry": true,
+    "imports": [
+      "_ProductCard-CHb1HPq2-v4.7.9.js",
+      "_ProductRating-Jsih_aOL-v4.7.9.js",
+      "_LandscapeProducts-BdtI2HIw-v4.7.9.js",
+      "_ProductMixin-D4Z8_OKx-v4.7.9.js",
+      "_swiper-AEc_2BbQ-v4.7.9.js"
+    ]
+  },
+  "modules/Storefront/Resources/assets/public/js/pages/home/main.js": {
+    "file": "assets/main-DAzQiSnM-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Storefront/Resources/assets/public/js/pages/home/main.js",
+    "isEntry": true,
+    "imports": [
+      "_swiper-AEc_2BbQ-v4.7.9.js",
+      "_ProductCard-CHb1HPq2-v4.7.9.js",
+      "_countdown-DEkJMrkh-v4.7.9.js",
+      "_ProductMixin-D4Z8_OKx-v4.7.9.js",
+      "_lodash-D2t14mRG-v4.7.9.js",
+      "_ProductRating-Jsih_aOL-v4.7.9.js",
+      "_@popperjs-IQGopUey-v4.7.9.js"
+    ]
+  },
+  "modules/Storefront/Resources/assets/public/js/pages/products/index/main.js": {
+    "file": "assets/main-DT7C2NAY-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Storefront/Resources/assets/public/js/pages/products/index/main.js",
+    "isEntry": true,
+    "imports": [
+      "_functions-CwRdlv5O-v4.7.9.js",
+      "_swiper-AEc_2BbQ-v4.7.9.js",
+      "_nouislider-B_G20eMg-v4.7.9.js",
+      "_ProductCard-CHb1HPq2-v4.7.9.js",
+      "_Pagination-DKj6Zlmg-v4.7.9.js",
+      "_ProductMixin-D4Z8_OKx-v4.7.9.js",
+      "_ProductRating-Jsih_aOL-v4.7.9.js"
+    ]
+  },
+  "modules/Storefront/Resources/assets/public/js/pages/products/show/main.js": {
+    "file": "assets/main-TX_qzjCA-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Storefront/Resources/assets/public/js/pages/products/show/main.js",
+    "isEntry": true,
+    "imports": [
+      "_swiper-AEc_2BbQ-v4.7.9.js",
+      "_blueimp-md5-moQeb2ly-v4.7.9.js",
+      "_drift-zoom-2CC1LJ4j-v4.7.9.js",
+      "_glightbox-CZ7eyOfq-v4.7.9.js",
+      "_Errors-C30A2Jtx-v4.7.9.js",
+      "_ProductRating-Jsih_aOL-v4.7.9.js",
+      "_Pagination-DKj6Zlmg-v4.7.9.js",
+      "_ProductCard-CHb1HPq2-v4.7.9.js",
+      "_@popperjs-IQGopUey-v4.7.9.js",
+      "_ProductMixin-D4Z8_OKx-v4.7.9.js"
+    ]
+  },
+  "modules/Storefront/Resources/assets/public/js/vendors/flatpickr.js": {
+    "file": "assets/flatpickr-HvAbJdf9-v4.7.9.js",
+    "name": "flatpickr",
+    "src": "modules/Storefront/Resources/assets/public/js/vendors/flatpickr.js",
+    "isEntry": true,
+    "imports": [
+      "_flatpickr-B_JH6AFf-v4.7.9.js"
+    ]
+  },
+  "modules/Storefront/Resources/assets/public/sass/app.scss": {
+    "file": "assets/app-CWFnxEoj-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/app.scss",
+    "isEntry": true,
+    "name": "app",
+    "names": [
+      "app.css",
+      "app.css"
+    ]
+  },
+  "modules/Storefront/Resources/assets/public/sass/pages/404/main.scss": {
+    "file": "assets/main-Cz6nar-R-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/404/main.scss"
+  },
+  "modules/Storefront/Resources/assets/public/sass/pages/account/addresses/main.scss": {
+    "file": "assets/main-HCZDDvi_-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/account/addresses/main.scss"
+  },
+  "modules/Storefront/Resources/assets/public/sass/pages/account/dashboard/main.scss": {
+    "file": "assets/main-BArMJRq1-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/account/dashboard/main.scss"
+  },
+  "modules/Storefront/Resources/assets/public/sass/pages/account/main.scss": {
+    "file": "assets/main-CcoxQ4nR-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/account/main.scss"
+  },
+  "modules/Storefront/Resources/assets/public/sass/pages/account/orders/index/main.scss": {
+    "file": "assets/main-ByyI9YR8-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/account/orders/index/main.scss",
+    "isEntry": true,
+    "name": "main",
+    "names": [
+      "main.css",
+      "main.css"
+    ]
+  },
+  "modules/Storefront/Resources/assets/public/sass/pages/account/orders/show/main.scss": {
+    "file": "assets/main-y8nGXwd0-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/account/orders/show/main.scss"
+  },
+  "modules/Storefront/Resources/assets/public/sass/pages/account/profile/main.scss": {
+    "file": "assets/main-CDn7NwDI-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/account/profile/main.scss"
+  },
+  "modules/Storefront/Resources/assets/public/sass/pages/account/reviews/main.scss": {
+    "file": "assets/main-BFpNywyr-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/account/reviews/main.scss"
+  },
+  "modules/Storefront/Resources/assets/public/sass/pages/account/wishlist/main.scss": {
+    "file": "assets/main-CibhcwWZ-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/account/wishlist/main.scss"
+  },
+  "modules/Storefront/Resources/assets/public/sass/pages/auth/main.scss": {
+    "file": "assets/main-zXUdm1ao-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/auth/main.scss"
+  },
+  "modules/Storefront/Resources/assets/public/sass/pages/blogs/index/main.scss": {
+    "file": "assets/main-DLUw8Mfx-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/blogs/index/main.scss"
+  },
+  "modules/Storefront/Resources/assets/public/sass/pages/blogs/show/main.scss": {
+    "file": "assets/main-DcrY7ZAe-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/blogs/show/main.scss"
+  },
+  "modules/Storefront/Resources/assets/public/sass/pages/brands/main.scss": {
+    "file": "assets/main-BXShebZH-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/brands/main.scss"
+  },
+  "modules/Storefront/Resources/assets/public/sass/pages/cart/main.scss": {
+    "file": "assets/main-BKcwYdEM-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/cart/main.scss"
+  },
+  "modules/Storefront/Resources/assets/public/sass/pages/categories/main.scss": {
+    "file": "assets/main-D1S2O9Ej-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/categories/main.scss"
+  },
+  "modules/Storefront/Resources/assets/public/sass/pages/checkout/complete/main.scss": {
+    "file": "assets/main-C3BPDFwv-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/checkout/complete/main.scss"
+  },
+  "modules/Storefront/Resources/assets/public/sass/pages/checkout/create/main.scss": {
+    "file": "assets/main-CfwEjl7C-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/checkout/create/main.scss"
+  },
+  "modules/Storefront/Resources/assets/public/sass/pages/compare/main.scss": {
+    "file": "assets/main-Bi5Qvh7W-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/compare/main.scss"
+  },
+  "modules/Storefront/Resources/assets/public/sass/pages/contact/main.scss": {
+    "file": "assets/main-CWoeVLpx-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/contact/main.scss"
+  },
+  "modules/Storefront/Resources/assets/public/sass/pages/custom-page/main.scss": {
+    "file": "assets/main-DVtOAyn9-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/custom-page/main.scss"
+  },
+  "modules/Storefront/Resources/assets/public/sass/pages/home/main.scss": {
+    "file": "assets/main-BJcyKARk-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/home/main.scss"
+  },
+  "modules/Storefront/Resources/assets/public/sass/pages/products/index/main.scss": {
+    "file": "assets/main-CGKqJuS2-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/products/index/main.scss"
+  },
+  "modules/Storefront/Resources/assets/public/sass/pages/products/show/main.scss": {
+    "file": "assets/main-C7emP4gC-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/products/show/main.scss"
+  },
+  "modules/Storefront/Resources/assets/public/sass/pages/sitemap/main.scss": {
+    "file": "assets/main-DxuOebmH-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/pages/sitemap/main.scss"
+  },
+  "modules/Storefront/Resources/assets/public/sass/vendors/_bootstrap.scss": {
+    "file": "assets/_bootstrap-BSeEH3JU-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/vendors/_bootstrap.scss",
+    "isEntry": true,
+    "name": "_bootstrap",
+    "names": [
+      "_bootstrap.css"
+    ]
+  },
+  "modules/Storefront/Resources/assets/public/sass/vendors/_drift-zoom.scss": {
+    "file": "assets/_drift-zoom-PWCoCrtt-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/vendors/_drift-zoom.scss",
+    "isEntry": true,
+    "name": "_drift-zoom",
+    "names": [
+      "_drift-zoom.css"
+    ]
+  },
+  "modules/Storefront/Resources/assets/public/sass/vendors/_line-awesome.scss": {
+    "file": "assets/_line-awesome-CWMvUAdP-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/vendors/_line-awesome.scss",
+    "isEntry": true,
+    "name": "_line-awesome",
+    "names": [
+      "_line-awesome.css"
+    ]
+  },
+  "modules/Storefront/Resources/assets/public/sass/vendors/_swiper.scss": {
+    "file": "assets/_swiper-BYqgXw_k-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/vendors/_swiper.scss",
+    "isEntry": true,
+    "name": "_swiper",
+    "names": [
+      "_swiper.css"
+    ]
+  },
+  "modules/Storefront/Resources/assets/public/sass/vendors/_toastify.scss": {
+    "file": "assets/_toastify-Dv64ZIbn-v4.7.9.css",
+    "src": "modules/Storefront/Resources/assets/public/sass/vendors/_toastify.scss",
+    "isEntry": true,
+    "name": "_toastify",
+    "names": [
+      "_toastify.css"
+    ]
+  },
+  "modules/Tax/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-BKcIvfRA-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Tax/Resources/assets/admin/js/main.js",
+    "isEntry": true
+  },
+  "modules/Tax/Resources/assets/admin/sass/main.scss": {
+    "file": "assets/main-CO0-jDZt-v4.7.9.css",
+    "src": "modules/Tax/Resources/assets/admin/sass/main.scss"
+  },
+  "modules/Translation/Resources/assets/admin/languages/js/main.js": {
+    "file": "assets/main-CZkf9U8R-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Translation/Resources/assets/admin/languages/js/main.js",
+    "isEntry": true,
+    "imports": [
+      "_vue-BHeX_88J-v4.7.9.js",
+      "_functions-Cxk2NqT8-v4.7.9.js",
+      "_Toaster-D8Gweven-v4.7.9.js",
+      "_NProgress-y1prHQ1u-v4.7.9.js",
+      "__plugin-vue_export-helper-DlAUqK2U-v4.7.9.js",
+      "_@vue-O6qqxbZM-v4.7.9.js",
+      "_@popperjs-IQGopUey-v4.7.9.js",
+      "_vue-toast-notification-XnVLFVxK-v4.7.9.js",
+      "_nprogress-CvXwzOYS-v4.7.9.js"
+    ]
+  },
+  "modules/Translation/Resources/assets/admin/languages/sass/main.scss": {
+    "file": "assets/main-hsssr8NX-v4.7.9.css",
+    "src": "modules/Translation/Resources/assets/admin/languages/sass/main.scss"
+  },
+  "modules/Translation/Resources/assets/admin/translations/js/main.js": {
+    "file": "assets/main-BnobI9vQ-v4.7.9.js",
+    "name": "main",
+    "src": "modules/Translation/Resources/assets/admin/translations/js/main.js",
+    "isEntry": true,
+    "imports": [
+      "_datatables.net-bs-shaCT9ye-v4.7.9.js",
+      "_x-editable-Dp3MKH4K-v4.7.9.js",
+      "_datatables.net-CN8QGwxi-v4.7.9.js",
+      "_jquery-Da0aGkp1-v4.7.9.js",
+      "_@popperjs-IQGopUey-v4.7.9.js"
+    ]
+  },
+  "modules/Translation/Resources/assets/admin/translations/sass/main.scss": {
+    "file": "assets/main-BehfoL3s-v4.7.9.css",
+    "src": "modules/Translation/Resources/assets/admin/translations/sass/main.scss"
+  },
+  "modules/User/Resources/assets/admin/images/login-page-bg.png": {
+    "file": "assets/login-page-bg-C5mjR5sO-v4.7.9.png",
+    "src": "bk/modules/Storefront/Resources/assets/public/images/login-page-bg.png"
+  },
+  "modules/User/Resources/assets/admin/images/login-page-mobile-bg.png": {
+    "file": "assets/login-page-mobile-bg-93mPWKYP-v4.7.9.png",
+    "src": "bk/modules/Storefront/Resources/assets/public/images/login-page-mobile-bg.png"
+  },
+  "modules/User/Resources/assets/admin/images/mobile-grid-shape-bg.png": {
+    "file": "assets/mobile-grid-shape-bg-juGEnKEQ-v4.7.9.png",
+    "src": "bk/modules/Storefront/Resources/assets/public/images/mobile-grid-shape-bg.png"
+  },
+  "modules/User/Resources/assets/admin/images/top-mask.png": {
+    "file": "assets/top-mask-BpUofBZ6-v4.7.9.png",
+    "src": "bk/modules/Storefront/Resources/assets/public/images/top-mask.png"
+  },
+  "modules/User/Resources/assets/admin/js/auth/main.js": {
+    "file": "assets/main-B86UsCPa-v4.7.9.js",
+    "name": "main",
+    "src": "modules/User/Resources/assets/admin/js/auth/main.js",
+    "isEntry": true,
+    "imports": [
+      "_alpinejs-S4M4TpEG-v4.7.9.js"
+    ]
+  },
+  "modules/User/Resources/assets/admin/js/main.js": {
+    "file": "assets/main-g5KeQkhY-v4.7.9.js",
+    "name": "main",
+    "src": "modules/User/Resources/assets/admin/js/main.js",
+    "isEntry": true
+  },
+  "modules/User/Resources/assets/admin/sass/auth/main.scss": {
+    "file": "assets/main-CcyeEyJ6-v4.7.9.css",
+    "src": "modules/User/Resources/assets/admin/sass/auth/main.scss"
+  },
+  "modules/User/Resources/assets/admin/sass/main.scss": {
+    "file": "assets/main-Cpuzh06u-v4.7.9.css",
+    "src": "modules/User/Resources/assets/admin/sass/main.scss"
+  },
+  "modules/Variation/Resources/assets/admin/js/create.js": {
+    "file": "assets/create-BDOkbzW0-v4.7.9.js",
+    "name": "create",
+    "src": "modules/Variation/Resources/assets/admin/js/create.js",
+    "isEntry": true,
+    "imports": [
+      "_vue-BHeX_88J-v4.7.9.js",
+      "_functions-Cxk2NqT8-v4.7.9.js",
+      "_Toaster-D8Gweven-v4.7.9.js",
+      "_VariationMixin-CgH8HRNL-v4.7.9.js",
+      "_placeholder_image-Bbu6noMO-v4.7.9.js",
+      "__plugin-vue_export-helper-DlAUqK2U-v4.7.9.js",
+      "_@vue-O6qqxbZM-v4.7.9.js",
+      "_@popperjs-IQGopUey-v4.7.9.js",
+      "_vue-toast-notification-XnVLFVxK-v4.7.9.js",
+      "_vuedraggable-BIdiRQGq-v4.7.9.js",
+      "_Errors-CUe_UZOJ-v4.7.9.js",
+      "_@melloware-RmAS1ZjF-v4.7.9.js"
+    ]
+  },
+  "modules/Variation/Resources/assets/admin/js/edit.js": {
+    "file": "assets/edit-C3q2-wEI-v4.7.9.js",
+    "name": "edit",
+    "src": "modules/Variation/Resources/assets/admin/js/edit.js",
+    "isEntry": true,
+    "imports": [
+      "_vue-BHeX_88J-v4.7.9.js",
+      "_functions-Cxk2NqT8-v4.7.9.js",
+      "_Toaster-D8Gweven-v4.7.9.js",
+      "_VariationMixin-CgH8HRNL-v4.7.9.js",
+      "_placeholder_image-Bbu6noMO-v4.7.9.js",
+      "__plugin-vue_export-helper-DlAUqK2U-v4.7.9.js",
+      "_@vue-O6qqxbZM-v4.7.9.js",
+      "_@popperjs-IQGopUey-v4.7.9.js",
+      "_vue-toast-notification-XnVLFVxK-v4.7.9.js",
+      "_vuedraggable-BIdiRQGq-v4.7.9.js",
+      "_Errors-CUe_UZOJ-v4.7.9.js",
+      "_@melloware-RmAS1ZjF-v4.7.9.js"
+    ]
+  },
+  "modules/Variation/Resources/assets/admin/sass/main.scss": {
+    "file": "assets/main-BOM9Nxrx-v4.7.9.css",
+    "src": "modules/Variation/Resources/assets/admin/sass/main.scss"
+  },
+  "node_modules/font-awesome/fonts/fontawesome-webfont.eot": {
+    "file": "assets/fontawesome-webfont-G5YE5S7X-v4.7.9.eot",
+    "src": "node_modules/font-awesome/fonts/fontawesome-webfont.eot"
+  },
+  "node_modules/font-awesome/fonts/fontawesome-webfont.svg": {
+    "file": "assets/fontawesome-webfont-D13rzr4g-v4.7.9.svg",
+    "src": "node_modules/font-awesome/fonts/fontawesome-webfont.svg"
+  },
+  "node_modules/font-awesome/fonts/fontawesome-webfont.ttf": {
+    "file": "assets/fontawesome-webfont-CQDK8MU3-v4.7.9.ttf",
+    "src": "node_modules/font-awesome/fonts/fontawesome-webfont.ttf"
+  },
+  "node_modules/font-awesome/fonts/fontawesome-webfont.woff": {
+    "file": "assets/fontawesome-webfont-CDK5bt4p-v4.7.9.woff",
+    "src": "node_modules/font-awesome/fonts/fontawesome-webfont.woff"
+  },
+  "node_modules/font-awesome/fonts/fontawesome-webfont.woff2": {
+    "file": "assets/fontawesome-webfont-B-jkhYfk-v4.7.9.woff2",
+    "src": "node_modules/font-awesome/fonts/fontawesome-webfont.woff2"
+  },
+  "node_modules/jstree/dist/themes/default/32px.png": {
+    "file": "assets/32px-CHwblES--v4.7.9.png",
+    "src": "node_modules/jstree/dist/themes/default/32px.png"
+  },
+  "node_modules/jstree/dist/themes/default/40px.png": {
+    "file": "assets/40px-fA5gcXpO-v4.7.9.png",
+    "src": "node_modules/jstree/dist/themes/default/40px.png"
+  },
+  "node_modules/jstree/dist/themes/default/throbber.gif": {
+    "file": "assets/throbber-DhAvNIJO-v4.7.9.gif",
+    "src": "node_modules/jstree/dist/themes/default/throbber.gif"
+  },
+  "node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.eot": {
+    "file": "assets/la-brands-400-LN4CMlGg-v4.7.9.eot",
+    "src": "node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.eot"
+  },
+  "node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.svg": {
+    "file": "assets/la-brands-400-wsUI3UJ9-v4.7.9.svg",
+    "src": "node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.svg"
+  },
+  "node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.ttf": {
+    "file": "assets/la-brands-400-gDglUfU7-v4.7.9.ttf",
+    "src": "node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.ttf"
+  },
+  "node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.woff": {
+    "file": "assets/la-brands-400-D0lxOIwB-v4.7.9.woff",
+    "src": "node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.woff"
+  },
+  "node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.woff2": {
+    "file": "assets/la-brands-400-Cq-R4OEF-v4.7.9.woff2",
+    "src": "node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.woff2"
+  },
+  "node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.eot": {
+    "file": "assets/la-regular-400-Cx6vm3uW-v4.7.9.eot",
+    "src": "node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.eot"
+  },
+  "node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.svg": {
+    "file": "assets/la-regular-400-BmVb34ql-v4.7.9.svg",
+    "src": "node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.svg"
+  },
+  "node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.ttf": {
+    "file": "assets/la-regular-400-CmnW_RTo-v4.7.9.ttf",
+    "src": "node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.ttf"
+  },
+  "node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.woff": {
+    "file": "assets/la-regular-400-ehe5HgcS-v4.7.9.woff",
+    "src": "node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.woff"
+  },
+  "node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.woff2": {
+    "file": "assets/la-regular-400-DuFMN_sw-v4.7.9.woff2",
+    "src": "node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.woff2"
+  },
+  "node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.eot": {
+    "file": "assets/la-solid-900-DkmX4G2x-v4.7.9.eot",
+    "src": "node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.eot"
+  },
+  "node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.svg": {
+    "file": "assets/la-solid-900-dtlPMWb8-v4.7.9.svg",
+    "src": "node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.svg"
+  },
+  "node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.ttf": {
+    "file": "assets/la-solid-900-BUOWlSBQ-v4.7.9.ttf",
+    "src": "node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.ttf"
+  },
+  "node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.woff": {
+    "file": "assets/la-solid-900-CR_Kd-su-v4.7.9.woff",
+    "src": "node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.woff"
+  },
+  "node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.woff2": {
+    "file": "assets/la-solid-900-TjMEgv3Q-v4.7.9.woff2",
+    "src": "node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.woff2"
+  },
+  "resources/images/installer-bg.png": {
+    "file": "assets/installer-bg-MmihlEQe-v4.7.9.png",
+    "src": "bk/resources/images/installer-bg.png"
+  },
+  "resources/js/install/app.js": {
+    "file": "assets/app-CImk_uIG-v4.7.9.js",
+    "name": "app",
+    "src": "resources/js/install/app.js",
+    "isEntry": true,
+    "imports": [
+      "_alpinejs-S4M4TpEG-v4.7.9.js",
+      "_axios-B9ygI19o-v4.7.9.js"
+    ]
+  },
+  "resources/sass/install/app.scss": {
+    "file": "assets/app-MoOwO-pH-v4.7.9.css",
+    "src": "resources/sass/install/app.scss"
+  }
+}

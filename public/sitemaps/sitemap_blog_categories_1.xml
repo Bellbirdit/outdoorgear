@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+    <url>
+    <loc>https://staging.outdoorgear.ae/blog/categories/news/posts</loc>
+    <lastmod>2024-05-18T05:13:54+04:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+            </url>
+    <url>
+    <loc>https://staging.outdoorgear.ae/blog/categories/shopping-tips/posts</loc>
+    <lastmod>2024-05-18T05:14:21+04:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+            </url>
+    <url>
+    <loc>https://staging.outdoorgear.ae/blog/categories/guides-tutorials/posts</loc>
+    <lastmod>2024-05-18T05:14:37+04:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+            </url>
+    <url>
+    <loc>https://staging.outdoorgear.ae/blog/categories/company-updates/posts</loc>
+    <lastmod>2024-05-18T05:14:57+04:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+            </url>
+    <url>
+    <loc>https://staging.outdoorgear.ae/blog/categories/promotions/posts</loc>
+    <lastmod>2024-05-18T05:15:14+04:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+            </url>
+    <url>
+    <loc>https://staging.outdoorgear.ae/blog/categories/trends/posts</loc>
+    <lastmod>2024-05-18T05:15:30+04:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+            </url>
+    <url>
+    <loc>https://staging.outdoorgear.ae/blog/categories/testemonials/posts</loc>
+    <lastmod>2024-05-18T05:15:47+04:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+            </url>
+</urlset>

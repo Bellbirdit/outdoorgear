@@ -1,0 +1,1 @@
+$("#order-status").on("change",a=>{axios.put(`/orders/${a.currentTarget.dataset.id}/status`,{status:a.currentTarget.value}).then(t=>{success(t.data)}).catch(({response:t})=>{error(t.data.message)})});

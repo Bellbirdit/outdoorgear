@@ -1,0 +1,6 @@
+import{t}from"./tinymce-BDjfghZb-v4.7.9.js";function r(l={}){return t.baseURL=`${window.location.origin}/build/assets/tinymce`,t.init({selector:".wysiwyg",theme:"silver",height:350,menubar:!1,branding:!1,image_advtab:!0,automatic_uploads:!0,media_alt_source:!1,media_poster:!1,relative_urls:!1,toolbar_mode:"sliding",directionality:FleetCart.rtl?"rtl":"ltr",cache_suffix:`?v=${FleetCart.version}`,content_style:"body { color: #333333; }",plugins:"lists, link, table, image, media, paste, autosave, autolink,quickbars, wordcount, code, fullscreen",toolbar:"styleselect | bold italic underline strikethrough blockquote | bullist numlist | alignleft aligncenter alignright alignjustify | outdent indent | forecolor removeformat | table | image media link | code fullscreen",quickbars_selection_toolbar:"bold italic | quicklink h2 h3 blockquote quickimage quicktable",extended_valid_elements:"img[class|src|alt|title|width|loading=lazy]",content_style:`
+            body {
+                font-size: 14px;
+                color: #555555;
+            }
+        `,images_upload_handler(a,o,s){let i=new FormData;i.append("file",a.blob(),a.filename()),axios.post("/media",i).then(e=>{o(e.data.path)}).catch(e=>{s(e.response.data.message)})},...l}),t}export{r as t};

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap>
+        <loc>https://staging.outdoorgear.ae/sitemaps/sitemap_products_1.xml</loc>
+            <lastmod>2025-10-24T01:21:35+04:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://staging.outdoorgear.ae/sitemaps/sitemap_categories_1.xml</loc>
+            <lastmod>2025-10-24T01:21:35+04:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://staging.outdoorgear.ae/sitemaps/sitemap_brands_1.xml</loc>
+            <lastmod>2025-10-24T01:21:35+04:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://staging.outdoorgear.ae/sitemaps/sitemap_pages_1.xml</loc>
+            <lastmod>2025-10-24T01:21:35+04:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://staging.outdoorgear.ae/sitemaps/sitemap_blog_posts_1.xml</loc>
+            <lastmod>2025-10-24T01:21:35+04:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://staging.outdoorgear.ae/sitemaps/sitemap_blog_categories_1.xml</loc>
+            <lastmod>2025-10-24T01:21:35+04:00</lastmod>
+    </sitemap>
+</sitemapindex>
